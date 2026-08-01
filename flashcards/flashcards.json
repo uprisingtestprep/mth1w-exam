@@ -1,0 +1,3002 @@
+[
+ {
+  "id": 1,
+  "domain": "number",
+  "front": "What is a rational number?",
+  "back": "A rational number is any number that can be written as a fraction of two integers, where the bottom number is not zero. This includes all integers, fractions, and decimals that either stop or repeat. For example, 5, -2/3, and 0.75 are all rational."
+ },
+ {
+  "id": 2,
+  "domain": "number",
+  "front": "What is an irrational number? Give an example.",
+  "back": "An irrational number is a decimal that goes on forever without ever repeating a pattern. It cannot be written as a fraction of two integers. Pi (3.14159...) and the square root of 2 are famous examples."
+ },
+ {
+  "id": 3,
+  "domain": "number",
+  "front": "Is the repeating decimal 0.333... rational?",
+  "back": "Yes. A decimal that repeats a pattern forever is rational because it can be written as a fraction. In this case, 0.333... equals exactly 1/3."
+ },
+ {
+  "id": 4,
+  "domain": "number",
+  "front": "Which is smaller: -10 or -2?",
+  "back": "-10 is smaller, because it sits farther left on the number line. Many students think -10 is bigger since 10 is a bigger digit, but the negative sign reverses that. The farther left a number is, the smaller its value."
+ },
+ {
+  "id": 5,
+  "domain": "number",
+  "front": "How do you compare two fractions like 3/4 and 5/8?",
+  "back": "Rewrite them with a common denominator, then compare the numerators. Here 3/4 becomes 6/8, and since 6 is bigger than 5, 3/4 is bigger than 5/8."
+ },
+ {
+  "id": 6,
+  "domain": "number",
+  "front": "Which is smaller: -1/3 or -1/4?",
+  "back": "-1/3 is smaller. Using a common denominator of 12, -1/3 is -4/12 and -1/4 is -3/12, and -4/12 sits farther left on the number line. With negatives, the fraction with the bigger size is the smaller value."
+ },
+ {
+  "id": 7,
+  "domain": "number",
+  "front": "What is the easiest way to order a mixed list like -1.5, 2/3, -2, 0.4?",
+  "back": "Turn everything into decimals first, then line them up on a number line. Here 2/3 is about 0.67, so the order from smallest to largest is -2, -1.5, 0.4, 2/3."
+ },
+ {
+  "id": 8,
+  "domain": "number",
+  "front": "What does absolute value mean?",
+  "back": "Absolute value is the size of a number without its sign, or its distance from zero on the number line. For example, the absolute value of -7 is 7, and the absolute value of 7 is also 7."
+ },
+ {
+  "id": 9,
+  "domain": "number",
+  "front": "What is the rule for adding two integers with the same sign?",
+  "back": "Add their sizes and keep the shared sign. For example, -3 + (-5) = -8, because 3 + 5 = 8 and both numbers are negative."
+ },
+ {
+  "id": 10,
+  "domain": "number",
+  "front": "What is the rule for adding two integers with different signs?",
+  "back": "Subtract the smaller size from the larger size, then keep the sign of the number with the bigger size. For example, -7 + 4 = -3, because 7 - 4 = 3 and the bigger size (7) was negative."
+ },
+ {
+  "id": 11,
+  "domain": "number",
+  "front": "How do you handle any integer subtraction problem?",
+  "back": "Change it into adding the opposite: a - b becomes a + (-b). For example, 5 - (-3) becomes 5 + 3 = 8. This one rewrite turns every subtraction into an addition question you already know how to solve."
+ },
+ {
+  "id": 12,
+  "domain": "number",
+  "front": "What is -6 - (-9)?",
+  "back": "The answer is 3. Rewrite it as adding the opposite: -6 + 9. The signs are different, so subtract 6 from 9 to get 3, and keep the sign of the bigger size, which is positive."
+ },
+ {
+  "id": 13,
+  "domain": "number",
+  "front": "What mistake do students make when subtracting a negative, like 8 - (-5)?",
+  "back": "They forget to flip the subtraction into addition and wrongly write 8 - 5 = 3. Subtracting a negative is the same as adding a positive, so 8 - (-5) = 8 + 5 = 13. Always rewrite as adding the opposite first."
+ },
+ {
+  "id": 14,
+  "domain": "number",
+  "front": "What is 2 - 8?",
+  "back": "The answer is -6. Rewrite as 2 + (-8). The signs are different, so subtract 2 from 8 to get 6, and keep the negative sign because 8 was the bigger size."
+ },
+ {
+  "id": 15,
+  "domain": "number",
+  "front": "What is the sign rule for multiplying two negatives?",
+  "back": "A negative times a negative gives a positive. Same signs always give a positive answer when multiplying or dividing. For example, (-4) × (-5) = 20."
+ },
+ {
+  "id": 16,
+  "domain": "number",
+  "front": "What is the sign rule for multiplying or dividing numbers with different signs?",
+  "back": "Different signs give a negative answer. For example, (-4) × 5 = -20, and 30 divided by (-6) = -5. The rule is the same for both multiplication and division."
+ },
+ {
+  "id": 17,
+  "domain": "number",
+  "front": "Quick trick: what sign is (-2) × (-3) × (-1) × 4?",
+  "back": "Count the negative signs. There are three, an odd number, so the answer is negative. Multiplying the sizes gives 2 × 3 × 1 × 4 = 24, so the answer is -24."
+ },
+ {
+  "id": 18,
+  "domain": "number",
+  "front": "What must you do before adding or subtracting two fractions?",
+  "back": "Give them a common denominator, meaning rewrite both fractions with the same bottom number. Only then can you add or subtract the numerators. The denominator stays the same in the answer."
+ },
+ {
+  "id": 19,
+  "domain": "number",
+  "front": "What is 1/2 + 2/3?",
+  "back": "The answer is 7/6, or 1 and 1/6. The common denominator of 2 and 3 is 6, so 1/2 becomes 3/6 and 2/3 becomes 4/6. Adding the numerators gives 3/6 + 4/6 = 7/6."
+ },
+ {
+  "id": 20,
+  "domain": "number",
+  "front": "What mistake do students make when adding fractions like 1/2 + 1/3?",
+  "back": "They add straight across the top and bottom, wrongly getting 2/5. The correct method uses a common denominator of 6: 1/2 becomes 3/6, 1/3 becomes 2/6, and 3/6 + 2/6 = 5/6."
+ },
+ {
+  "id": 21,
+  "domain": "number",
+  "front": "How do you multiply two fractions?",
+  "back": "Multiply the numerators together and the denominators together, then simplify. For example, 2/3 × 3/5 = 6/15, which simplifies to 2/5 by dividing top and bottom by 3. No common denominator is needed for multiplying."
+ },
+ {
+  "id": 22,
+  "domain": "number",
+  "front": "How do you divide one fraction by another?",
+  "back": "Flip the second fraction (take its reciprocal) and multiply. For example, 3/4 divided by 2/5 becomes 3/4 × 5/2 = 15/8, which is 1 and 7/8."
+ },
+ {
+  "id": 23,
+  "domain": "number",
+  "front": "What is a reciprocal?",
+  "back": "The reciprocal of a fraction is what you get when you swap its numerator and denominator. The reciprocal of 2/5 is 5/2. You use it when dividing fractions: flip the second fraction, then multiply."
+ },
+ {
+  "id": 24,
+  "domain": "number",
+  "front": "What is -3/4 - 1/2?",
+  "back": "The answer is -5/4, or -1 and 1/4. Rewrite as -3/4 + (-1/2), give them the common denominator 4 so -1/2 becomes -2/4, then add: -3/4 + (-2/4) = -5/4."
+ },
+ {
+  "id": 25,
+  "domain": "number",
+  "front": "What is the rule for lining up decimals when adding or subtracting?",
+  "back": "Line up the decimal points so ones sit under ones, tenths under tenths, and so on. For example, 4.75 + (-1.3) becomes 4.75 - 1.3 = 3.45."
+ },
+ {
+  "id": 26,
+  "domain": "number",
+  "front": "What is 0.6 × 0.4, and how do you place the decimal point?",
+  "back": "The answer is 0.24. Multiply as if there were no decimals: 6 × 4 = 24. Then count the total decimal places in both numbers (one each, so two total) and move the point two spots from the right."
+ },
+ {
+  "id": 27,
+  "domain": "number",
+  "front": "What does BEDMAS stand for?",
+  "back": "Brackets, Exponents, Division and Multiplication (left to right), Addition and Subtraction (left to right). It is the order you must follow when an expression has more than one operation."
+ },
+ {
+  "id": 28,
+  "domain": "number",
+  "front": "In BEDMAS, does multiplication always come before division?",
+  "back": "No. Division and multiplication have equal priority and are done left to right in the order they appear. The same is true for addition and subtraction."
+ },
+ {
+  "id": 29,
+  "domain": "number",
+  "front": "What is 12 divided by 3 × 2?",
+  "back": "The answer is 8. Work left to right: 12 divided by 3 is 4, then 4 × 2 is 8. A common wrong answer is 2, from doing 3 × 2 first, but division and multiplication share equal priority left to right."
+ },
+ {
+  "id": 30,
+  "domain": "number",
+  "front": "Solve: 3 + 2 × (5 - 1)² divided by 4.",
+  "back": "The answer is 11. Brackets first: 5 - 1 = 4. Exponent next: 4² = 16. Then multiply and divide left to right: 2 × 16 = 32, and 32 divided by 4 = 8. Finally add: 3 + 8 = 11."
+ },
+ {
+  "id": 31,
+  "domain": "number",
+  "front": "What are nested brackets, and how do you handle them?",
+  "back": "Nested brackets are brackets sitting inside other brackets. Always solve the innermost brackets first, then work your way outward. For example, in -2 × [(-3 + 7) - 2²], solve -3 + 7 = 4 and 2² = 4 first, giving -2 × 0 = 0."
+ },
+ {
+  "id": 32,
+  "domain": "number",
+  "front": "Solve: (1/2 + 1/4) × (-8).",
+  "back": "The answer is -6. Brackets first: 1/2 + 1/4 = 2/4 + 1/4 = 3/4. Then multiply: 3/4 × (-8) = -24/4 = -6. The sign is negative because a positive times a negative is negative."
+ },
+ {
+  "id": 33,
+  "domain": "number",
+  "front": "In the power 5³, what are the base and the exponent, and what does it equal?",
+  "back": "The base is 5 and the exponent is 3. The exponent tells you how many times to multiply the base by itself: 5 × 5 × 5 = 125."
+ },
+ {
+  "id": 34,
+  "domain": "number",
+  "front": "What is the product rule for exponents?",
+  "back": "When multiplying two powers with the same base, keep the base and add the exponents. For example, 2³ × 2⁴ = 2⁷ = 128. It only works when the bases are the same."
+ },
+ {
+  "id": 35,
+  "domain": "number",
+  "front": "What is the quotient rule for exponents?",
+  "back": "When dividing two powers with the same base, keep the base and subtract the exponents. For example, 6⁵ divided by 6² = 6³ = 216."
+ },
+ {
+  "id": 36,
+  "domain": "number",
+  "front": "What is the power of a power rule?",
+  "back": "When a power is raised to another exponent, keep the base and multiply the exponents. For example, (3²)⁴ = 3⁸. A quick check: (3²)² = 9² = 81, and 3⁴ also equals 81."
+ },
+ {
+  "id": 37,
+  "domain": "number",
+  "front": "What does any nonzero number to the exponent zero equal?",
+  "back": "It equals 1. For example, 9⁰ = 1 and (-15)⁰ = 1. This keeps the quotient rule consistent, since 4³ divided by 4³ must be 1, and subtracting exponents gives 4⁰."
+ },
+ {
+  "id": 38,
+  "domain": "number",
+  "front": "What does a negative exponent mean?",
+  "back": "It means take the reciprocal of the base, and the exponent becomes positive. For example, 2⁻³ = 1/(2³) = 1/8, and 5⁻² = 1/25. A negative exponent does not make the answer negative."
+ },
+ {
+  "id": 39,
+  "domain": "number",
+  "front": "What is the difference between (-2)³ and 2⁻³?",
+  "back": "(-2)³ has a negative base: (-2) × (-2) × (-2) = -8. But 2⁻³ has a negative exponent, which means the reciprocal: 1/8, a positive fraction. The position of the negative sign completely changes the meaning."
+ },
+ {
+  "id": 40,
+  "domain": "number",
+  "front": "Why is (-3)² not the same as -3²?",
+  "back": "(-3)² means (-3) × (-3) = 9, because the brackets put the negative sign inside the power. But -3² means -(3²) = -9, because without brackets the exponent only applies to the 3. Always check where the negative sign sits."
+ },
+ {
+  "id": 41,
+  "domain": "number",
+  "front": "What common exponent mistake happens with 2³ × 3²?",
+  "back": "Students wrongly add the exponents and write 6⁵. The product rule only works when the bases are the same, and here they are different. Calculate each power separately: 2³ = 8 and 3² = 9, so the answer is 8 × 9 = 72."
+ },
+ {
+  "id": 42,
+  "domain": "number",
+  "front": "What is estimation used for on a test?",
+  "back": "Estimation gives a quick, close answer that checks whether your exact answer makes sense. If your exact answer is wildly different from your estimate, look for a sign error or a misplaced decimal point. Use it as a check, not a replacement for the real calculation."
+ },
+ {
+  "id": 43,
+  "domain": "number",
+  "front": "What is the rounding-to-friendly-numbers estimation strategy?",
+  "back": "Round each number to a nearby easy number before calculating. For example, to estimate (6.8 + 3.2) divided by 2, round to 7 and 3: 7 + 3 = 10, then 10 divided by 2 = 5. The exact answer is also 5, so the estimate confirms it."
+ },
+ {
+  "id": 44,
+  "domain": "number",
+  "front": "What are compatible numbers in estimation?",
+  "back": "Compatible numbers are nearby numbers that divide or multiply evenly. To estimate 79 divided by 8, use 80 divided by 8 = 10, so the real answer is a little under 10. The exact answer is 9.875."
+ },
+ {
+  "id": 45,
+  "domain": "number",
+  "front": "How do you estimate a sum of fractions like 7/8 + 1/9?",
+  "back": "Compare each fraction to 0, 1/2, or 1. Here 7/8 is close to 1 and 1/9 is close to 0, so the sum should land near 1. The exact answer, 71/72, is just under 1, matching the estimate."
+ },
+ {
+  "id": 46,
+  "domain": "number",
+  "front": "What is a quick mental shortcut for finding 10% of any number?",
+  "back": "Move the decimal point one place to the left. For example, 10% of 350 is 35. From there, 5% is half of the 10% value (17.5) and 1% is one tenth of it (3.5), so you can build almost any percent quickly."
+ },
+ {
+  "id": 47,
+  "domain": "number",
+  "front": "The temperature is -12 degrees and rises 8 degrees. What is it now?",
+  "back": "It is -4 degrees. Set it up as -12 + 8. The signs are different, so subtract 8 from 12 to get 4, and keep the negative sign because 12 was the bigger size."
+ },
+ {
+  "id": 48,
+  "domain": "number",
+  "front": "What is a ratio?",
+  "back": "A ratio compares two or more quantities, showing how much of one thing there is compared to another. It can be written with a colon, like 12:18, or as a fraction, like 12/18. The order of the numbers matters."
+ },
+ {
+  "id": 49,
+  "domain": "number",
+  "front": "What is the difference between a part-to-part and a part-to-whole ratio?",
+  "back": "A part-to-part ratio compares one part of a group to another part, like boys to girls, 12:18. A part-to-whole ratio compares one part to the entire group, like boys to the whole class, 12:30."
+ },
+ {
+  "id": 50,
+  "domain": "number",
+  "front": "How do you simplify a ratio like 12:18?",
+  "back": "Divide both numbers by their greatest common factor. The greatest common factor of 12 and 18 is 6, so the simplified ratio is 2:3. The smaller ratio still represents the exact same relationship."
+ },
+ {
+  "id": 51,
+  "domain": "number",
+  "front": "What are equivalent ratios?",
+  "back": "Equivalent ratios show the same comparison with different numbers. You make one by multiplying or dividing both parts by the same value. For example, 2:3 is equivalent to 4:6, 6:9, and 20:30."
+ },
+ {
+  "id": 52,
+  "domain": "number",
+  "front": "A recipe uses flour to sugar in a 3:2 ratio. How much sugar goes with 9 cups of flour?",
+  "back": "6 cups of sugar. The flour went from 3 to 9, a scale factor of 3, so multiply the sugar by the same factor: 2 × 3 = 6."
+ },
+ {
+  "id": 53,
+  "domain": "number",
+  "front": "Paint mixes blue to white at 5:3. You have 40 L of blue. How much white?",
+  "back": "24 litres. Find the scale factor: 40 divided by 5 is 8. Multiply the white part by the same factor: 3 × 8 = 24."
+ },
+ {
+  "id": 54,
+  "domain": "number",
+  "front": "A basket has apples to oranges in a 2:3 ratio and 20 fruits total. How many apples?",
+  "back": "8 apples. The ratio has 2 + 3 = 5 parts, and 20 divided by 5 means each part is 4 fruits. Apples get 2 parts: 2 × 4 = 8, and oranges get 3 × 4 = 12, which checks out since 8 + 12 = 20."
+ },
+ {
+  "id": 55,
+  "domain": "number",
+  "front": "Why does order matter in a ratio?",
+  "back": "A ratio of boys to girls, 12:18, is not the same as girls to boys, 18:12, even though the numbers are identical. Whatever the question names first must stay first all the way through your solution. Switching partway loses marks even with correct arithmetic."
+ },
+ {
+  "id": 56,
+  "domain": "number",
+  "front": "What is a rate?",
+  "back": "A rate is a special ratio comparing two quantities with different units. Speed compares distance to time, like kilometres per hour, and price compares cost to quantity, like dollars per kilogram."
+ },
+ {
+  "id": 57,
+  "domain": "number",
+  "front": "What is a unit rate?",
+  "back": "A unit rate is a rate where the second quantity is 1, like 60 km per hour or $0.50 per apple. Unit rates make it easy to compare speeds or prices, because everything is scaled to per one."
+ },
+ {
+  "id": 58,
+  "domain": "number",
+  "front": "A car travels 240 km in 4 hours. What is its unit rate?",
+  "back": "60 kilometres per hour. Divide the distance by the time: 240 divided by 4 equals 60."
+ },
+ {
+  "id": 59,
+  "domain": "number",
+  "front": "A bag of 8 apples costs $4.00. What is the unit price?",
+  "back": "$0.50 per apple. Divide the cost by the quantity: $4.00 divided by 8 equals $0.50."
+ },
+ {
+  "id": 60,
+  "domain": "number",
+  "front": "How do you decide which product is the better buy?",
+  "back": "Convert both prices to the same unit price, like dollars per gram, then compare those directly. For example, a 500 g box at $5.00 is $0.01 per gram, while a 750 g box at $6.75 is $0.009 per gram, so the bigger box is the better deal."
+ },
+ {
+  "id": 61,
+  "domain": "number",
+  "front": "What trap do students fall into when comparing prices at the store?",
+  "back": "They compare total prices instead of unit prices. A bigger box can cost more in total but still be cheaper per gram because it holds much more product. Always convert to the same unit before deciding."
+ },
+ {
+  "id": 62,
+  "domain": "number",
+  "front": "What trap happens with the direction of a unit rate?",
+  "back": "Dividing the wrong way flips the rate. If a question asks for kilometres per hour, divide distance by time, not time by distance. Always check that your final units match what the question asks for."
+ },
+ {
+  "id": 63,
+  "domain": "number",
+  "front": "What is a proportion?",
+  "back": "A proportion is a statement that two ratios or rates are equal, written as two fractions set equal, like a/b = c/d. Solving a proportion means finding the one missing value when the other three are known."
+ },
+ {
+  "id": 64,
+  "domain": "number",
+  "front": "How does cross-multiplication work?",
+  "back": "If a/b = c/d, then a times d equals b times c. Multiply diagonally across the equals sign, set the two products equal, and solve for the missing value."
+ },
+ {
+  "id": 65,
+  "domain": "number",
+  "front": "Solve for x: 3/4 = x/20.",
+  "back": "x = 15. Cross-multiply: 3 × 20 = 4x, so 60 = 4x, and dividing both sides by 4 gives 15. Check: 15/20 simplifies to 3/4."
+ },
+ {
+  "id": 66,
+  "domain": "number",
+  "front": "What does it mean for two quantities to be in direct proportion?",
+  "back": "They increase or decrease together at the same rate: double one and the other doubles too. A quick test is dividing one by the other, which always gives the same constant value, like a fixed hourly wage."
+ },
+ {
+  "id": 67,
+  "domain": "number",
+  "front": "Is a taxi fare with a flat starting fee a direct proportion?",
+  "back": "No. Doubling the distance does not double the total fare, because the flat fee stays the same either way. Only relationships where doubling one quantity doubles the other are direct proportions."
+ },
+ {
+  "id": 68,
+  "domain": "number",
+  "front": "What does the word percent mean?",
+  "back": "Percent means per hundred. A percentage is a ratio comparing a number to 100, so 45% means 45 out of every 100."
+ },
+ {
+  "id": 69,
+  "domain": "number",
+  "front": "How do you convert a percentage to a decimal?",
+  "back": "Divide by 100, which moves the decimal point two places left. For example, 45% becomes 0.45 and 7% becomes 0.07."
+ },
+ {
+  "id": 70,
+  "domain": "number",
+  "front": "How do you convert a decimal to a percentage?",
+  "back": "Multiply by 100, which moves the decimal point two places right. For example, 0.6 becomes 60% and 0.125 becomes 12.5%."
+ },
+ {
+  "id": 71,
+  "domain": "number",
+  "front": "Convert 3/8 to a percentage.",
+  "back": "37.5%. Divide the numerator by the denominator: 3 divided by 8 equals 0.375. Then multiply by 100 to get 37.5%."
+ },
+ {
+  "id": 72,
+  "domain": "number",
+  "front": "Convert 60% to a fraction in lowest terms.",
+  "back": "3/5. Write it over 100 as 60/100, then divide top and bottom by their greatest common factor, 20."
+ },
+ {
+  "id": 73,
+  "domain": "number",
+  "front": "What is 25% of 160?",
+  "back": "40. Convert the percent to a decimal, 0.25, then multiply: 0.25 × 160 = 40."
+ },
+ {
+  "id": 74,
+  "domain": "number",
+  "front": "What is 8% of 350?",
+  "back": "28. Convert 8% to the decimal 0.08, then multiply: 0.08 × 350 = 28."
+ },
+ {
+  "id": 75,
+  "domain": "number",
+  "front": "What is 15% of 80?",
+  "back": "12. Convert 15% to 0.15 and multiply: 0.15 × 80 = 12. Or use the shortcut: 10% of 80 is 8, and 5% is half of that (4), so 8 + 4 = 12."
+ },
+ {
+  "id": 76,
+  "domain": "number",
+  "front": "A $40 shirt increases in price by 15%. What is the new price?",
+  "back": "$46. Find the increase: 0.15 × 40 = $6. Then add it to the original: $40 + $6 = $46."
+ },
+ {
+  "id": 77,
+  "domain": "number",
+  "front": "An $80 jacket is 30% off. What is the sale price?",
+  "back": "$56. Find the decrease: 0.30 × 80 = $24. Then subtract from the original: $80 - $24 = $56."
+ },
+ {
+  "id": 78,
+  "domain": "number",
+  "front": "What is the formula for percent change?",
+  "back": "Percent change equals the amount of change divided by the original amount, times 100. For example, a population growing from 200 to 250 changed by 50, and 50 divided by 200 is 0.25, so the increase is 25%."
+ },
+ {
+  "id": 79,
+  "domain": "number",
+  "front": "What trap mixes up 'percent of' with 'percent increase'?",
+  "back": "Finding 20% of 80 gives 16, but increasing 80 by 20% gives 96, the original plus the increase. These are two completely different calculations, so read the question carefully to see which one it asks for."
+ },
+ {
+  "id": 80,
+  "domain": "number",
+  "front": "After a 20% increase, a bike costs $96. What was the original price?",
+  "back": "$80. Set up the equation: original x 1.20 = 96, then divide both sides by 1.20. Check: 20% of $80 is $16, and $80 + $16 = $96."
+ },
+ {
+  "id": 81,
+  "domain": "number",
+  "front": "After a 25% discount, a jacket costs $63. What was the original price?",
+  "back": "$84. Set up: original x 0.75 = 63, since 100% minus 25% leaves 75%. Divide both sides by 0.75 to get $84. Check: 25% of $84 is $21, and $84 - $21 = $63."
+ },
+ {
+  "id": 82,
+  "domain": "number",
+  "front": "What mistake do students make when finding an original price before a discount?",
+  "back": "They take the percent of the new price and add it back, which gives the wrong answer. The percent was calculated from the original price, not the new one. Always write original x (1 plus or minus the percent) = new amount, then solve for the original."
+ },
+ {
+  "id": 83,
+  "domain": "number",
+  "front": "What is Ontario's HST rate, and how do you add it to a price?",
+  "back": "The HST is 13%. Multiply the purchase price by 1.13 to get the total with tax. For example, a $50 item costs 50 × 1.13 = $56.50 in total."
+ },
+ {
+  "id": 84,
+  "domain": "number",
+  "front": "A $120 item is 20% off, then 13% HST is added. What is the final price?",
+  "back": "$108.48. Apply the discount first: 120 × 0.80 = $96. Then apply the tax to the discounted price: 96 × 1.13 = $108.48. Each step uses the current price, not the original."
+ },
+ {
+  "id": 85,
+  "domain": "number",
+  "front": "What does a scale of 1:100 on a diagram mean?",
+  "back": "One unit on the diagram equals 100 of the same unit in real life. So 1 cm drawn on the page represents 100 cm of real distance."
+ },
+ {
+  "id": 86,
+  "domain": "number",
+  "front": "A diagram uses a 1:50 scale. A wall is 6 cm on the diagram. Real length?",
+  "back": "300 cm, which is 3 metres. Multiply the drawn length by the scale: 6 × 50 = 300. You can also set up the proportion 1/50 = 6/x and cross-multiply."
+ },
+ {
+  "id": 87,
+  "domain": "number",
+  "front": "A map scale says 2 cm = 15 km. Two cities are 7 cm apart on the map. Real distance?",
+  "back": "52.5 km. Set up the proportion 2/15 = 7/x and cross-multiply: 2x = 15 × 7 = 105. Divide both sides by 2 to get 52.5."
+ },
+ {
+  "id": 88,
+  "domain": "number",
+  "front": "A recipe serves 4 people and uses 2 cups of rice. How much rice for 10 people?",
+  "back": "5 cups. Find the scale factor: 10 divided by 4 is 2.5. Multiply the rice by that factor: 2 × 2.5 = 5. Every other ingredient gets multiplied by the same 2.5."
+ },
+ {
+  "id": 89,
+  "domain": "number",
+  "front": "A recipe calls for 3/4 cup of flour and you make 1.5 times the recipe. How much flour?",
+  "back": "1 and 1/8 cups. Since 1.5 equals 3/2, multiply: 3/4 × 3/2 = 9/8, which is 1 and 1/8."
+ },
+ {
+  "id": 90,
+  "domain": "number",
+  "front": "A cleaner mixes 1 part concentrate to 4 parts water. How do you make 15 L of solution?",
+  "back": "Use 3 L of concentrate and 12 L of water. The ratio has 1 + 4 = 5 parts, and 15 divided by 5 means each part is 3 litres. Concentrate gets 1 part (3 L) and water gets 4 parts (12 L)."
+ },
+ {
+  "id": 91,
+  "domain": "algebra",
+  "front": "What is a variable?",
+  "back": "A variable is a letter that stands in for a number we do not know yet, or a number that can change. The most common letters are x, y, and n, but any letter works. When you see x, just think 'some number.'"
+ },
+ {
+  "id": 92,
+  "domain": "algebra",
+  "front": "What is the difference between an expression and an equation?",
+  "back": "An expression is a math phrase with numbers, variables, and operations but no equals sign, like 3x + 5. An equation has an equals sign, like 3x + 5 = 20. You simplify expressions, but you solve equations."
+ },
+ {
+  "id": 93,
+  "domain": "algebra",
+  "front": "Translate into algebra: five more than a number.",
+  "back": "Write it as n + 5. 'More than' signals addition, so you add 5 to the unknown number n."
+ },
+ {
+  "id": 94,
+  "domain": "algebra",
+  "front": "Translate into algebra: seven less than twice a number.",
+  "back": "Write it as 2n - 7. 'Twice a number' means 2n, and 'seven less than' means you subtract 7 from it. Watch the order: it is 2n - 7, not 7 - 2n."
+ },
+ {
+  "id": 95,
+  "domain": "algebra",
+  "front": "Translate: a number decreased by 3, then multiplied by 2.",
+  "back": "Write it as 2(n - 3). The word 'then' tells you the subtraction happens first, so it needs brackets. Writing 2n - 3 would be wrong because that only multiplies the n by 2, not the whole quantity."
+ },
+ {
+  "id": 96,
+  "domain": "algebra",
+  "front": "Which words in a problem usually signal addition?",
+  "back": "Words like sum, total, more than, and increased by usually mean addition. For example, 'the sum of a number and 4' becomes n + 4."
+ },
+ {
+  "id": 97,
+  "domain": "algebra",
+  "front": "Which words in a problem usually signal multiplication?",
+  "back": "Words like product, times, and of usually mean multiplication. For example, 'the product of three and a number' becomes 3n."
+ },
+ {
+  "id": 98,
+  "domain": "algebra",
+  "front": "Say the expression 4x - 9 in words.",
+  "back": "One correct way is 'nine less than four times a number.' There is often more than one correct wording, as long as the math meaning stays the same."
+ },
+ {
+  "id": 99,
+  "domain": "algebra",
+  "front": "Trap: what does 'less than' do to the order of a subtraction?",
+  "back": "'Less than' flips the order. 'Seven less than twice a number' means 2n - 7, because the 7 is taken away from 2n. Writing 7 - 2n reverses the meaning and gives a wrong answer."
+ },
+ {
+  "id": 100,
+  "domain": "algebra",
+  "front": "Translate: take a number, double it, then add seven.",
+  "back": "Write it as 2n + 7. Doubling the number gives 2n, and adding seven gives 2n + 7. Variables let us shrink a whole sentence into a short expression."
+ },
+ {
+  "id": 101,
+  "domain": "algebra",
+  "front": "What is a term in an algebraic expression?",
+  "back": "A term is a single piece of an expression, separated from other pieces by a plus or minus sign. In 5x² + 3x - 7, the terms are 5x², 3x, and -7. The sign right in front of a term belongs to that term."
+ },
+ {
+  "id": 102,
+  "domain": "algebra",
+  "front": "What is a coefficient?",
+  "back": "A coefficient is the number multiplied in front of a variable. In the term 5x², the coefficient is 5. In 3x, it is 3."
+ },
+ {
+  "id": 103,
+  "domain": "algebra",
+  "front": "What is the coefficient of the term x?",
+  "back": "The coefficient is 1, because 1x is exactly the same as x. When no number is written in front of a variable, an invisible 1 is understood to be there."
+ },
+ {
+  "id": 104,
+  "domain": "algebra",
+  "front": "What is a constant term?",
+  "back": "A constant is a term with no variable at all, just a number by itself. In 5x² + 3x - 7, the constant is -7. Constants never change value no matter what x is."
+ },
+ {
+  "id": 105,
+  "domain": "algebra",
+  "front": "What are like terms?",
+  "back": "Like terms have the exact same variable part, including the exact same exponent. For example, 4x and 9x are like terms. Only like terms can be added or subtracted together."
+ },
+ {
+  "id": 106,
+  "domain": "algebra",
+  "front": "Are 4x and 4x² like terms?",
+  "back": "No. Even though the coefficients look the same, one term has x¹ and the other has x². The variable parts are different, so they cannot be combined."
+ },
+ {
+  "id": 107,
+  "domain": "algebra",
+  "front": "Are 3xy and 8xy like terms?",
+  "back": "Yes. Both terms have exactly the same variable part, xy, so they are like terms. They can be combined: 3xy + 8xy = 11xy."
+ },
+ {
+  "id": 108,
+  "domain": "algebra",
+  "front": "Are 3xy and 3x like terms?",
+  "back": "No. One term has both x and y while the other only has x. To be like terms, every letter and every exponent in the variable part must match exactly."
+ },
+ {
+  "id": 109,
+  "domain": "algebra",
+  "front": "How many terms are in 5x² + 3x - 7?",
+  "back": "Three terms: 5x², 3x, and -7. Terms are the pieces separated by plus or minus signs, and each sign belongs to the term right after it."
+ },
+ {
+  "id": 110,
+  "domain": "algebra",
+  "front": "What is the coefficient of the term -7x?",
+  "back": "The coefficient is -7. The minus sign in front of a term belongs to that term, so the sign is part of the coefficient."
+ },
+ {
+  "id": 111,
+  "domain": "algebra",
+  "front": "What does it mean to simplify an expression?",
+  "back": "Simplifying means rewriting an expression in a shorter, cleaner form without changing its value. The main tool is collecting like terms: add or subtract the coefficients of terms that are alike, and leave unlike terms alone."
+ },
+ {
+  "id": 112,
+  "domain": "algebra",
+  "front": "Simplify: 6x + 3x - 2x",
+  "back": "All three are like terms, so combine the coefficients: 6 + 3 - 2 = 7. The answer is 7x."
+ },
+ {
+  "id": 113,
+  "domain": "algebra",
+  "front": "Simplify: 4x + 7 - 2x + 5",
+  "back": "Group the x terms and the constants: (4x - 2x) + (7 + 5). That gives 2x + 12. You cannot combine 2x and 12 because they are not like terms."
+ },
+ {
+  "id": 114,
+  "domain": "algebra",
+  "front": "Simplify: 5x + 3y - 2x + 6y",
+  "back": "Group the x terms and the y terms separately: (5x - 2x) + (3y + 6y). The answer is 3x + 9y. The x and y terms cannot be combined into one because they are different variables."
+ },
+ {
+  "id": 115,
+  "domain": "algebra",
+  "front": "Simplify: 8a - 3b + 2a + b - 5",
+  "back": "Group the a terms, b terms, and the constant: (8a + 2a) + (-3b + b) + (-5). That gives 10a - 2b - 5. Remember that b by itself has a coefficient of 1."
+ },
+ {
+  "id": 116,
+  "domain": "algebra",
+  "front": "Trap: can 4x + 4x² be simplified further?",
+  "back": "No. The terms have different exponents, so they are not like terms and must stay separate. Adding them to get 8x or 8x² is one of the most common mistakes in this unit."
+ },
+ {
+  "id": 117,
+  "domain": "algebra",
+  "front": "Simplify: 9m - 4m + m",
+  "back": "All three are like terms. Combine the coefficients: 9 - 4 + 1 = 6. The answer is 6m."
+ },
+ {
+  "id": 118,
+  "domain": "algebra",
+  "front": "Simplify: 2x + 3 + 5x - 8",
+  "back": "Group the x terms and the constants: (2x + 5x) + (3 - 8). That gives 7x - 5."
+ },
+ {
+  "id": 119,
+  "domain": "algebra",
+  "front": "State the distributive property.",
+  "back": "The distributive property says a(b + c) = ab + ac. In plain words, multiply the outside term by every single term inside the brackets, one at a time."
+ },
+ {
+  "id": 120,
+  "domain": "algebra",
+  "front": "Expand: 3(2x + 5)",
+  "back": "Multiply 3 by each term inside. 3 times 2x is 6x, and 3 times 5 is 15. The answer is 6x + 15."
+ },
+ {
+  "id": 121,
+  "domain": "algebra",
+  "front": "Expand: -2(x - 4)",
+  "back": "Multiply -2 by each term. -2 times x is -2x, and -2 times -4 is +8, because a negative times a negative is positive. The answer is -2x + 8, not -2x - 8."
+ },
+ {
+  "id": 122,
+  "domain": "algebra",
+  "front": "Expand: 4(3x² - 2x + 5)",
+  "back": "Multiply 4 by all three terms: 4 times 3x² is 12x², 4 times -2x is -8x, and 4 times 5 is 20. The answer is 12x² - 8x + 20. Missing the last term is an easy way to lose marks."
+ },
+ {
+  "id": 123,
+  "domain": "algebra",
+  "front": "Trap: what happens to signs when you distribute a negative number?",
+  "back": "Every term inside the brackets flips sign, not just the first one. For example, -2(x - 4) becomes -2x + 8. Sign errors while distributing a negative are the single most common mistake in this unit."
+ },
+ {
+  "id": 124,
+  "domain": "algebra",
+  "front": "Expand: 5(x - 3)",
+  "back": "Multiply 5 by each term: 5 times x is 5x, and 5 times -3 is -15. The answer is 5x - 15."
+ },
+ {
+  "id": 125,
+  "domain": "algebra",
+  "front": "Expand: -(2x - 7)",
+  "back": "A minus sign in front of brackets acts like multiplying by -1, so every term flips sign. The answer is -2x + 7."
+ },
+ {
+  "id": 126,
+  "domain": "algebra",
+  "front": "Why does the distributive property work? (Think of a rectangle.)",
+  "back": "Picture a rectangle with width a and a length split into two pieces, b and c. The whole area is a(b + c), but you could also add the two smaller areas, ab + ac. Both ways give the same total area, which is exactly what the rule says."
+ },
+ {
+  "id": 127,
+  "domain": "algebra",
+  "front": "Simplify: 2(3x + 1) + 4",
+  "back": "First expand: 2 times 3x is 6x, and 2 times 1 is 2, giving 6x + 2 + 4. Then collect the constants: 6x + 6."
+ },
+ {
+  "id": 128,
+  "domain": "algebra",
+  "front": "What are a monomial, a binomial, and a trinomial?",
+  "back": "They are polynomials named by their number of terms. A monomial has one term, like 3x. A binomial has two terms, like x + 5. A trinomial has three terms, like x² + 2x - 7."
+ },
+ {
+  "id": 129,
+  "domain": "algebra",
+  "front": "What is a polynomial?",
+  "back": "A polynomial is an algebraic expression made of one or more terms added or subtracted together, like 3x² + 2x - 5. Each piece separated by a plus or minus sign is one term."
+ },
+ {
+  "id": 130,
+  "domain": "algebra",
+  "front": "Add: (3x² + 2x - 5) + (x² - 4x + 7)",
+  "back": "Drop the brackets, since adding does not change any signs, then group like terms: (3x² + x²) + (2x - 4x) + (-5 + 7). The answer is 4x² - 2x + 2."
+ },
+ {
+  "id": 131,
+  "domain": "algebra",
+  "front": "What is the rule for adding two polynomials?",
+  "back": "Remove the brackets and collect like terms as usual. Adding brackets does not change any signs, so no terms flip. Just group the matching variable parts and combine their coefficients."
+ },
+ {
+  "id": 132,
+  "domain": "algebra",
+  "front": "What is the rule for subtracting one polynomial from another?",
+  "back": "Distribute the negative sign to every term in the second bracket first, flipping every sign inside it. Then collect like terms as usual. This flip step is where most students lose marks."
+ },
+ {
+  "id": 133,
+  "domain": "algebra",
+  "front": "Subtract: (5x² - 3x + 1) - (2x² - x - 4)",
+  "back": "Flip every sign in the second bracket: -2x² + x + 4. Now combine: (5x² - 2x²) + (-3x + x) + (1 + 4). The answer is 3x² - 2x + 5."
+ },
+ {
+  "id": 134,
+  "domain": "algebra",
+  "front": "Trap: when subtracting polynomials, which terms flip sign?",
+  "back": "Every single term in the second bracket flips, not just the first one. Flipping only the first term is one of the most common ways to lose full marks on an otherwise correct answer."
+ },
+ {
+  "id": 135,
+  "domain": "algebra",
+  "front": "Subtract: (4x + 9) - (x - 2)",
+  "back": "Flip both signs in the second bracket: -x + 2. Then combine: (4x - x) + (9 + 2). The answer is 3x + 11."
+ },
+ {
+  "id": 136,
+  "domain": "algebra",
+  "front": "Add: (2x - 3) + (5x + 8)",
+  "back": "Drop the brackets and group like terms: (2x + 5x) + (-3 + 8). The answer is 7x + 5."
+ },
+ {
+  "id": 137,
+  "domain": "algebra",
+  "front": "How do you multiply a monomial by a polynomial?",
+  "back": "Use the distributive property: multiply the single term by every term inside the brackets. Multiply the coefficients, and use the product rule to add exponents on matching variables."
+ },
+ {
+  "id": 138,
+  "domain": "algebra",
+  "front": "Multiply: 4x(3x² - 2x + 5)",
+  "back": "4x times 3x² is 12x³ (multiply 4 and 3, add exponents 1 + 2). 4x times -2x is -8x², and 4x times 5 is 20x. The answer is 12x³ - 8x² + 20x."
+ },
+ {
+  "id": 139,
+  "domain": "algebra",
+  "front": "Multiply: -3x²(2x - 5)",
+  "back": "-3x² times 2x is -6x³, and -3x² times -5 is +15x², since a negative times a negative is positive. The answer is -6x³ + 15x²."
+ },
+ {
+  "id": 140,
+  "domain": "algebra",
+  "front": "Multiply: 2x(x + 6)",
+  "back": "2x times x is 2x², and 2x times 6 is 12x. The answer is 2x² + 12x."
+ },
+ {
+  "id": 141,
+  "domain": "algebra",
+  "front": "What is the rule for multiplying two binomials?",
+  "back": "Every term in the first bracket must be multiplied by every term in the second bracket, giving four products in total. Then collect like terms at the end, usually the two middle terms."
+ },
+ {
+  "id": 142,
+  "domain": "algebra",
+  "front": "Expand: (x + 3)(x + 5)",
+  "back": "Multiply all four pairs: x times x is x², x times 5 is 5x, 3 times x is 3x, and 3 times 5 is 15. Collect the middle terms: 5x + 3x = 8x. The answer is x² + 8x + 15."
+ },
+ {
+  "id": 143,
+  "domain": "algebra",
+  "front": "Expand: (2x - 1)(x + 4)",
+  "back": "The four products are 2x², 8x, -x, and -4. Collect the middle terms: 8x - x = 7x. The answer is 2x² + 7x - 4."
+ },
+ {
+  "id": 144,
+  "domain": "algebra",
+  "front": "Expand: (x + 2)(x + 7)",
+  "back": "The four products are x², 7x, 2x, and 14. Collect the middle terms: 7x + 2x = 9x. The answer is x² + 9x + 14."
+ },
+ {
+  "id": 145,
+  "domain": "algebra",
+  "front": "Expand: (x - 3)(x + 3)",
+  "back": "The four products are x², 3x, -3x, and -9. The middle terms cancel out: 3x - 3x = 0. The answer is x² - 9."
+ },
+ {
+  "id": 146,
+  "domain": "algebra",
+  "front": "How does an area model help multiply two binomials?",
+  "back": "Draw a rectangle split into a 2 by 2 grid, with the two binomials along the top and side. Each small rectangle is one of the four multiplications. Adding all four areas gives the expanded answer."
+ },
+ {
+  "id": 147,
+  "domain": "algebra",
+  "front": "Expand: (x + 4)(x - 2)",
+  "back": "The four products are x², -2x, 4x, and -8. Collect the middle terms: -2x + 4x = 2x. The answer is x² + 2x - 8."
+ },
+ {
+  "id": 148,
+  "domain": "algebra",
+  "front": "Exponent product rule: what happens when you multiply powers with the same base?",
+  "back": "Add the exponents: xᵐ times xⁿ equals xᵐ⁺ⁿ. For example, x³ times x⁴ equals x⁷. This only works when the bases are the same."
+ },
+ {
+  "id": 149,
+  "domain": "algebra",
+  "front": "Simplify: x³ times x⁴",
+  "back": "Same base, so add the exponents: 3 + 4 = 7. The answer is x⁷."
+ },
+ {
+  "id": 150,
+  "domain": "algebra",
+  "front": "Simplify: (2x³)(3x²)",
+  "back": "Multiply the coefficients first: 2 times 3 is 6. Then add the exponents: 3 + 2 = 5. The answer is 6x⁵."
+ },
+ {
+  "id": 151,
+  "domain": "algebra",
+  "front": "Exponent quotient rule: what happens when you divide powers with the same base?",
+  "back": "Subtract the exponents: xᵐ divided by xⁿ equals xᵐ⁻ⁿ. For example, x⁸ divided by x³ equals x⁵."
+ },
+ {
+  "id": 152,
+  "domain": "algebra",
+  "front": "Simplify: x⁸ divided by x³",
+  "back": "Same base, so subtract the exponents: 8 - 3 = 5. The answer is x⁵."
+ },
+ {
+  "id": 153,
+  "domain": "algebra",
+  "front": "Simplify: 12x⁷ divided by 4x³",
+  "back": "Divide the coefficients: 12 divided by 4 is 3. Subtract the exponents: 7 - 3 = 4. The answer is 3x⁴."
+ },
+ {
+  "id": 154,
+  "domain": "algebra",
+  "front": "Power of a power rule: what happens in (xᵐ)ⁿ?",
+  "back": "Multiply the exponents: (xᵐ)ⁿ equals xᵐⁿ. For example, (x³)² equals x⁶. It makes sense because (x³)² means x³ times x³, and the product rule gives x⁶."
+ },
+ {
+  "id": 155,
+  "domain": "algebra",
+  "front": "Simplify: (x³)²",
+  "back": "A power raised to a power means multiply the exponents: 3 times 2 is 6. The answer is x⁶."
+ },
+ {
+  "id": 156,
+  "domain": "algebra",
+  "front": "Trap: when do you ADD exponents and when do you MULTIPLY them?",
+  "back": "Add when multiplying same-base powers: x³ times x⁴ = x⁷. Multiply when a power is raised to another power: (x³)² = x⁶. These are two different rules for two different situations, so read the expression carefully."
+ },
+ {
+  "id": 157,
+  "domain": "algebra",
+  "front": "Can x³ and y² be combined with an exponent rule?",
+  "back": "No. The exponent rules only work when the bases are the same, and x and y are different bases. The most you can do is write them multiplied together as x³y²."
+ },
+ {
+  "id": 158,
+  "domain": "algebra",
+  "front": "Simplify: (5x²)(2x⁴)",
+  "back": "Multiply the coefficients: 5 times 2 is 10. Add the exponents: 2 + 4 = 6. The answer is 10x⁶."
+ },
+ {
+  "id": 159,
+  "domain": "algebra",
+  "front": "What is factoring?",
+  "back": "Factoring is the reverse of distributing. Instead of multiplying a term across brackets, you pull a common factor out and rewrite the polynomial as that factor times a bracket."
+ },
+ {
+  "id": 160,
+  "domain": "algebra",
+  "front": "How do you find the greatest common factor (GCF) of a polynomial?",
+  "back": "Find the biggest number that divides evenly into all the coefficients. Then find the smallest power of each variable that appears in every term. Multiply those together to get the GCF."
+ },
+ {
+  "id": 161,
+  "domain": "algebra",
+  "front": "Factor: 6x + 9",
+  "back": "The biggest number dividing both 6 and 9 is 3, and there is no variable in both terms, so the GCF is 3. Divide each term by 3 to get 2x and 3. The factored form is 3(2x + 3)."
+ },
+ {
+  "id": 162,
+  "domain": "algebra",
+  "front": "Factor: 8x² - 12x",
+  "back": "The biggest number dividing 8 and 12 is 4, and both terms have at least one x, so the GCF is 4x. Dividing each term by 4x gives 2x and -3. The factored form is 4x(2x - 3)."
+ },
+ {
+  "id": 163,
+  "domain": "algebra",
+  "front": "Factor: 10x³ + 15x² - 5x",
+  "back": "The GCF of 10, 15, and 5 is 5, and every term has at least one x, so the GCF is 5x. Dividing each term by 5x gives 2x², 3x, and -1. The factored form is 5x(2x² + 3x - 1)."
+ },
+ {
+  "id": 164,
+  "domain": "algebra",
+  "front": "How do you check a factoring answer?",
+  "back": "Distribute it back out and see if you get the original expression. For example, 3(2x + 3) expands to 6x + 9, so the factoring was correct. This check takes seconds and catches most errors."
+ },
+ {
+  "id": 165,
+  "domain": "algebra",
+  "front": "Factor: 5x + 20",
+  "back": "The biggest number dividing 5 and 20 is 5, so the GCF is 5. Dividing each term by 5 gives x and 4. The factored form is 5(x + 4)."
+ },
+ {
+  "id": 166,
+  "domain": "algebra",
+  "front": "Factor: 7x² + 14x",
+  "back": "The GCF of the coefficients is 7, and both terms have at least one x, so the GCF is 7x. Dividing each term by 7x gives x and 2. The factored form is 7x(x + 2)."
+ },
+ {
+  "id": 167,
+  "domain": "algebra",
+  "front": "What is substitution, and what order of operations do you use?",
+  "back": "Substitution means replacing a variable with a specific number and then simplifying. Always follow BEDMAS: Brackets, Exponents, Division and Multiplication, Addition and Subtraction."
+ },
+ {
+  "id": 168,
+  "domain": "algebra",
+  "front": "Evaluate 3x + 4 when x = 5.",
+  "back": "Replace x with 5: 3(5) + 4. Multiply first to get 15 + 4, then add. The answer is 19."
+ },
+ {
+  "id": 169,
+  "domain": "algebra",
+  "front": "Evaluate 3x² - 2x + 5 when x = -2.",
+  "back": "Substitute with brackets: 3(-2)² - 2(-2) + 5. The exponent first: (-2)² = 4. Then multiply: 3(4) = 12 and -2(-2) = +4. Adding gives 12 + 4 + 5 = 21."
+ },
+ {
+  "id": 170,
+  "domain": "algebra",
+  "front": "Evaluate 2a - 3b when a = 4 and b = -1.",
+  "back": "Substitute both letters: 2(4) - 3(-1). Multiplying gives 8 - (-3), which is the same as 8 + 3. The answer is 11."
+ },
+ {
+  "id": 171,
+  "domain": "algebra",
+  "front": "Trap: why must you put substituted negative numbers in brackets?",
+  "back": "Because -2² and (-2)² mean different things. Without brackets, only the 2 gets squared, giving -4, but (-2)² means -2 times -2, which is +4. Always bracket negatives to avoid sign errors."
+ },
+ {
+  "id": 172,
+  "domain": "algebra",
+  "front": "Evaluate 5x - 7 when x = 3.",
+  "back": "Substitute: 5(3) - 7. Multiply first to get 15 - 7. The answer is 8."
+ },
+ {
+  "id": 173,
+  "domain": "algebra",
+  "front": "Evaluate x² + 2x when x = -3.",
+  "back": "Substitute with brackets: (-3)² + 2(-3). The exponent first: (-3)² = 9. Then 2(-3) = -6. Adding gives 9 - 6 = 3."
+ },
+ {
+  "id": 174,
+  "domain": "algebra",
+  "front": "What is a linear equation?",
+  "back": "A linear equation is a math sentence saying two things are equal, where the variable is only raised to the power of 1. There is no x squared or x cubed anywhere. Solving it means finding the number that makes the sentence true."
+ },
+ {
+  "id": 175,
+  "domain": "algebra",
+  "front": "How is an equation like a balance scale?",
+  "back": "Both sides must always stay equal, just like both pans must weigh the same. Whatever you do to one side (add, subtract, multiply, divide), you must do the exact same thing to the other side, or the equation breaks."
+ },
+ {
+  "id": 176,
+  "domain": "algebra",
+  "front": "What does it mean to isolate the variable?",
+  "back": "It means getting x completely alone on one side of the equals sign. You do it by undoing operations in reverse order using opposite operations: addition undoes subtraction, and multiplication undoes division."
+ },
+ {
+  "id": 177,
+  "domain": "algebra",
+  "front": "Solve: x + 7 = 15",
+  "back": "Subtract 7 from both sides to undo the addition: x = 15 - 7 = 8. Check: 8 + 7 = 15, so x = 8 is correct."
+ },
+ {
+  "id": 178,
+  "domain": "algebra",
+  "front": "Solve: 4x = 20",
+  "back": "x is being multiplied by 4, so divide both sides by 4: x = 20 / 4 = 5. Check: 4(5) = 20, so x = 5 is correct."
+ },
+ {
+  "id": 179,
+  "domain": "algebra",
+  "front": "Solve: x - 9 = 4",
+  "back": "Add 9 to both sides to undo the subtraction: x = 4 + 9 = 13. Check: 13 - 9 = 4, so x = 13 is correct."
+ },
+ {
+  "id": 180,
+  "domain": "algebra",
+  "front": "Solve: x/5 = 6",
+  "back": "x is being divided by 5, so multiply both sides by 5: x = 6 times 5 = 30. Check: 30 / 5 = 6, so x = 30 is correct."
+ },
+ {
+  "id": 181,
+  "domain": "algebra",
+  "front": "In a two-step equation, which operation do you undo first?",
+  "back": "Undo addition or subtraction first, then undo multiplication or division. This is the reverse of the order the equation was built in. For 3x + 5 = 20, subtract 5 first, then divide by 3."
+ },
+ {
+  "id": 182,
+  "domain": "algebra",
+  "front": "Solve: 3x + 5 = 20",
+  "back": "Subtract 5 from both sides: 3x = 15. Then divide both sides by 3: x = 5. Check: 3(5) + 5 = 20, so x = 5 is correct."
+ },
+ {
+  "id": 183,
+  "domain": "algebra",
+  "front": "Solve: x/4 - 3 = 5",
+  "back": "Add 3 to both sides: x/4 = 8. Then multiply both sides by 4: x = 32. Check: 32/4 - 3 = 8 - 3 = 5, so x = 32 is correct."
+ },
+ {
+  "id": 184,
+  "domain": "algebra",
+  "front": "Solve: 2x - 7 = 11",
+  "back": "Add 7 to both sides: 2x = 18. Divide both sides by 2: x = 9. Check: 2(9) - 7 = 18 - 7 = 11, so x = 9 is correct."
+ },
+ {
+  "id": 185,
+  "domain": "algebra",
+  "front": "Solve: 5x + 2 = 17",
+  "back": "Subtract 2 from both sides: 5x = 15. Divide both sides by 5: x = 3. Check: 5(3) + 2 = 17, so x = 3 is correct."
+ },
+ {
+  "id": 186,
+  "domain": "algebra",
+  "front": "How do you check the solution to an equation?",
+  "back": "Substitute your answer back into the original equation and see if both sides come out equal. It only takes a few seconds and catches almost every mistake before it costs you marks."
+ },
+ {
+  "id": 187,
+  "domain": "algebra",
+  "front": "Solve: 3(x + 2) = 2x + 10",
+  "back": "Expand the brackets first: 3x + 6 = 2x + 10. Subtract 2x from both sides: x + 6 = 10. Subtract 6: x = 4. Check: 3(6) = 18 and 2(4) + 10 = 18, so both sides match."
+ },
+ {
+  "id": 188,
+  "domain": "algebra",
+  "front": "Solve: (x + 1)/2 = 5",
+  "back": "Multiply both sides by 2 to clear the fraction: x + 1 = 10. Subtract 1: x = 9. Check: (9 + 1)/2 = 10/2 = 5, so x = 9 is correct."
+ },
+ {
+  "id": 189,
+  "domain": "algebra",
+  "front": "What is the first move when x appears on both sides of an equation?",
+  "back": "Get every x term onto the same side. Pick the side with the smaller x term and subtract it from both sides so it disappears from that side. Then solve the leftover two-step equation as usual."
+ },
+ {
+  "id": 190,
+  "domain": "algebra",
+  "front": "Solve: 5x - 3 = 2x + 12",
+  "back": "Subtract 2x from both sides: 3x - 3 = 12. Add 3: 3x = 15. Divide by 3: x = 5. Check: 5(5) - 3 = 22 and 2(5) + 12 = 22, so both sides match."
+ },
+ {
+  "id": 191,
+  "domain": "algebra",
+  "front": "Solve: 7x = 4x + 9",
+  "back": "Subtract 4x from both sides: 3x = 9. Divide by 3: x = 3. Check: 7(3) = 21 and 4(3) + 9 = 21, so x = 3 is correct."
+ },
+ {
+  "id": 192,
+  "domain": "algebra",
+  "front": "Solve: 6x + 1 = 2x + 13",
+  "back": "Subtract 2x from both sides: 4x + 1 = 13. Subtract 1: 4x = 12. Divide by 4: x = 3. Check: 6(3) + 1 = 19 and 2(3) + 13 = 19, so both sides match."
+ },
+ {
+  "id": 193,
+  "domain": "algebra",
+  "front": "Trap: when checking an answer, which version of the equation do you use?",
+  "back": "Always plug your answer into the ORIGINAL equation, not a step from the middle of your work. If you made a mistake partway through, checking against a middle step would wrongly confirm the bad answer."
+ },
+ {
+  "id": 194,
+  "domain": "algebra",
+  "front": "Solve: 4(x - 1) = 2x + 6",
+  "back": "Expand first: 4x - 4 = 2x + 6. Subtract 2x: 2x - 4 = 6. Add 4: 2x = 10, so x = 5. Check: 4(5 - 1) = 16 and 2(5) + 6 = 16, so both sides match."
+ },
+ {
+  "id": 195,
+  "domain": "algebra",
+  "front": "What is a linear relation?",
+  "back": "A relation is any rule connecting two sets of numbers, usually x and y. A linear relation is one whose graph forms a perfectly straight line. Not every relation is linear, so we test with first differences."
+ },
+ {
+  "id": 196,
+  "domain": "algebra",
+  "front": "What are first differences?",
+  "back": "First differences are the amounts the y-values change by each time you move down one row in a table of values, as long as the x-values go up by the same amount each time. You find them by subtracting each y-value from the next one."
+ },
+ {
+  "id": 197,
+  "domain": "algebra",
+  "front": "How do first differences tell you if a relation is linear?",
+  "back": "If the first differences are all the same (constant), the relation is linear and its graph is a straight line. If the differences change, the graph is curved and the relation is not linear."
+ },
+ {
+  "id": 198,
+  "domain": "algebra",
+  "front": "Table: x is 0,1,2,3 and y is 5,8,11,14. Linear?",
+  "back": "Find the first differences: 8 - 5 = 3, 11 - 8 = 3, and 14 - 11 = 3. Every difference is exactly 3, so they are constant. The relation is linear."
+ },
+ {
+  "id": 199,
+  "domain": "algebra",
+  "front": "A table's first differences are 3, then 5, then 8. Linear?",
+  "back": "No. The first differences are not the same every time, so the graph would be curved instead of a straight line. Only constant first differences mean a linear relation."
+ },
+ {
+  "id": 200,
+  "domain": "algebra",
+  "front": "How are first differences connected to slope?",
+  "back": "When the x-values in a table go up by 1 each time, the constant first difference IS the slope. It tells you how much y changes for every 1 unit increase in x."
+ },
+ {
+  "id": 201,
+  "domain": "algebra",
+  "front": "Trap: the x-values in a table jump by 2, not 1. How do you find slope?",
+  "back": "You cannot use the change in y alone. Divide the change in y by the actual change in x for that row. For example, if y rises 6 while x rises 2, the slope is 6 / 2 = 3."
+ },
+ {
+  "id": 202,
+  "domain": "algebra",
+  "front": "What does slope measure?",
+  "back": "Slope measures how steep a line is and which way it tilts. In real life it is a rate of change, like cost per item or distance per hour. It is usually written with the letter m."
+ },
+ {
+  "id": 203,
+  "domain": "algebra",
+  "front": "What is the slope formula for two points?",
+  "back": "For points (x1, y1) and (x2, y2), the slope is m = (y2 - y1) / (x2 - x1). It is remembered as rise over run: the change in y divided by the change in x."
+ },
+ {
+  "id": 204,
+  "domain": "algebra",
+  "front": "Find the slope between (1, 4) and (3, 10).",
+  "back": "Use the formula: m = (10 - 4) / (3 - 1) = 6 / 2 = 3. The slope is 3, meaning the line goes up 3 units for every 1 unit you move right."
+ },
+ {
+  "id": 205,
+  "domain": "algebra",
+  "front": "In 'rise over run,' what are rise and run?",
+  "back": "Rise is the vertical change, meaning how far you move up or down (the change in y). Run is the horizontal change, meaning how far you move left or right (the change in x). Slope is rise divided by run."
+ },
+ {
+  "id": 206,
+  "domain": "algebra",
+  "front": "How do you find slope directly from a graph?",
+  "back": "Pick any two clear points on the line. Count the rise (vertical squares between them) and the run (horizontal squares between them), then divide rise by run."
+ },
+ {
+  "id": 207,
+  "domain": "algebra",
+  "front": "What do positive and negative slopes look like?",
+  "back": "A positive slope rises as you move right, like climbing a hill. A negative slope falls as you move right, like going down a ski hill."
+ },
+ {
+  "id": 208,
+  "domain": "algebra",
+  "front": "What are the slopes of horizontal and vertical lines?",
+  "back": "A horizontal line has a slope of zero because it is flat. A vertical line has an undefined slope, because the run would be zero and you cannot divide by zero."
+ },
+ {
+  "id": 209,
+  "domain": "algebra",
+  "front": "Trap: does subtraction order matter in the slope formula?",
+  "back": "Yes. Keep the same order on top and bottom: y2 minus y1 over x2 minus x1. Mixing the order in only one part flips the sign of your slope and gives a wrong answer."
+ },
+ {
+  "id": 210,
+  "domain": "algebra",
+  "front": "Trap: what happens if you compute run over rise instead of rise over run?",
+  "back": "You get the reciprocal of the real slope, which is a completely different number. Rise (the y change) always goes on top, and run (the x change) always goes on the bottom."
+ },
+ {
+  "id": 211,
+  "domain": "algebra",
+  "front": "Find the slope between (0, 4) and (2, 8).",
+  "back": "Use the formula: m = (8 - 4) / (2 - 0) = 4 / 2 = 2. The slope is 2."
+ },
+ {
+  "id": 212,
+  "domain": "algebra",
+  "front": "What is the y-intercept?",
+  "back": "The y-intercept is the point where a line crosses the y-axis. At that exact point, x always equals 0. In the equation y = mx + b, the y-intercept is the value b."
+ },
+ {
+  "id": 213,
+  "domain": "algebra",
+  "front": "What does the y-intercept usually mean in a real-world problem?",
+  "back": "It is the starting value, the amount you begin with before anything changes. For example, a $30 gym sign-up fee is the y-intercept because you pay it before any months have passed (x = 0)."
+ },
+ {
+  "id": 214,
+  "domain": "algebra",
+  "front": "How do you spot the y-intercept in a table of values?",
+  "back": "Find the row where x = 0. The y-value in that row is the y-intercept. In the table x: 0,1,2,3 with y: 5,8,11,14, the y-intercept is 5."
+ },
+ {
+  "id": 215,
+  "domain": "algebra",
+  "front": "In y = mx + b, what do m and b stand for?",
+  "back": "m is the slope, the rate of change of the line. b is the y-intercept, the starting value where the line crosses the y-axis. Knowing both lets you write the full equation right away."
+ },
+ {
+  "id": 216,
+  "domain": "algebra",
+  "front": "Write the equation for the table x: 0,1,2,3 and y: 5,8,11,14.",
+  "back": "The first differences are all 3, so the slope is m = 3. The y-value at x = 0 is 5, so b = 5. The equation is y = 3x + 5. Check with x = 2: 3(2) + 5 = 11, which matches the table."
+ },
+ {
+  "id": 217,
+  "domain": "algebra",
+  "front": "A line crosses the y-axis at (0, 4) and passes through (2, 8). Equation?",
+  "back": "The y-intercept gives b = 4. The slope is m = (8 - 4) / (2 - 0) = 2. So the equation is y = 2x + 4."
+ },
+ {
+  "id": 218,
+  "domain": "algebra",
+  "front": "A phone plan costs a $20 base fee plus $2 per GB. Equation and cost for 6 GB?",
+  "back": "The base fee is the y-intercept (b = 20) and the cost per GB is the slope (m = 2), so Cost = 2g + 20. For 6 GB, Cost = 2(6) + 20 = $32."
+ },
+ {
+  "id": 219,
+  "domain": "algebra",
+  "front": "A taxi charges $2 per kilometre. What does the slope of the cost graph mean?",
+  "back": "The slope is 2, and it means the cost rises by $2 for every extra kilometre travelled. Slope is always a rate of change: how much one quantity changes compared to another."
+ },
+ {
+  "id": 220,
+  "domain": "algebra",
+  "front": "A gym charges a $30 sign-up fee plus a monthly cost. Which part is the y-intercept?",
+  "back": "The $30 sign-up fee is the y-intercept. It is what you pay before any months have passed, meaning when x = 0. The monthly cost would be the slope."
+ },
+ {
+  "id": 221,
+  "domain": "algebra",
+  "front": "In coding, what is a variable?",
+  "back": "A variable in coding is a labeled storage spot for a number, similar to x and y in math. The difference is that in code its value can be updated as the program runs."
+ },
+ {
+  "id": 222,
+  "domain": "algebra",
+  "front": "In coding, what is a loop?",
+  "back": "A loop is a set of instructions that repeats automatically, usually a fixed number of times or until some condition is met. For example, a loop can calculate y for x = 0, 1, 2, 3, 4, 5 one after another."
+ },
+ {
+  "id": 223,
+  "domain": "algebra",
+  "front": "In coding, what is an if-statement?",
+  "back": "An if-statement is a rule that only runs certain instructions when a condition is true, and skips them otherwise. For example: if the calculated y equals the point's y-value, print that the point is on the line."
+ },
+ {
+  "id": 224,
+  "domain": "algebra",
+  "front": "Describe a simple program that builds a table of values for y = 2x + 4.",
+  "back": "Set a variable x to 0. Loop while x is less than or equal to 5: calculate y = 2x + 4, record the pair (x, y), then increase x by 1. Running it gives (0,4), (1,6), (2,8), (3,10), (4,12), (5,14)."
+ },
+ {
+  "id": 225,
+  "domain": "algebra",
+  "front": "How would a program check if the point (3, 10) lies on y = 2x + 4?",
+  "back": "Take the point's x-value, 3, and calculate y = 2(3) + 4 = 10. Then use an if-statement: if the calculated y equals the point's y-value, the point satisfies the relation. Since 10 equals 10, the point is on the line."
+ },
+ {
+  "id": 226,
+  "domain": "data",
+  "front": "What is categorical data?",
+  "back": "Categorical data describes qualities or categories, not amounts. Examples are favorite pizza topping, eye color, or type of pet. You cannot do math like averaging with it. You can only count how often each category appears."
+ },
+ {
+  "id": 227,
+  "domain": "data",
+  "front": "What is numerical data?",
+  "back": "Numerical data is made of actual numbers that represent a quantity, like height, test scores, or number of pets. It is also called quantitative data. It splits into two kinds: discrete and continuous."
+ },
+ {
+  "id": 228,
+  "domain": "data",
+  "front": "What is discrete data?",
+  "back": "Discrete data can only take specific, separate values, usually whole numbers. The number of siblings a person has is discrete because you cannot have 2.5 siblings. You count discrete data rather than measure it."
+ },
+ {
+  "id": 229,
+  "domain": "data",
+  "front": "What is continuous data?",
+  "back": "Continuous data can take any value in a range, including decimals. Height is continuous because someone could be 162.3 cm tall. Continuous data usually comes from measuring, not counting."
+ },
+ {
+  "id": 230,
+  "domain": "data",
+  "front": "Classify: favorite subject, number of pets, height in cm.",
+  "back": "Favorite subject is categorical because it names a category. Number of pets is numerical and discrete because it can only be whole numbers. Height is numerical and continuous because it can take any decimal value."
+ },
+ {
+  "id": 231,
+  "domain": "data",
+  "front": "Is shoe size discrete or continuous?",
+  "back": "Shoe size is discrete. Even though sizes include halves like 8.5, they can only take specific, separate values with nothing allowed in between. Continuous data can take any value in a range."
+ },
+ {
+  "id": 232,
+  "domain": "data",
+  "front": "Is the time to run 100 m discrete or continuous?",
+  "back": "It is continuous. Time can take any value in a range, like 14.37 seconds. Measured quantities such as time, height, and mass are continuous."
+ },
+ {
+  "id": 233,
+  "domain": "data",
+  "front": "What is a census?",
+  "back": "A census collects data from every single member of a population, meaning the whole group you care about. It gives complete information but takes a lot of time and money. That is why samples are often used instead."
+ },
+ {
+  "id": 234,
+  "domain": "data",
+  "front": "What is a sample?",
+  "back": "A sample collects data from only part of the population. You then use that smaller group to make guesses about the whole. Sampling is faster and cheaper than a census, but it risks bias if the sample is unfair."
+ },
+ {
+  "id": 235,
+  "domain": "data",
+  "front": "What is bias in sampling?",
+  "back": "Bias means the sample does not fairly represent the whole population, so the results are skewed in one direction. For example, asking only the basketball team which sport to fund will almost always produce basketball. A fair sample should be random and large enough."
+ },
+ {
+  "id": 236,
+  "domain": "data",
+  "front": "Why is surveying only cafeteria students at 11:00 am biased?",
+  "back": "It misses students who eat lunch later or bring lunch from home. The sample only represents one slice of the school, not the whole population. A fair sample would include students from different grades, times, and habits."
+ },
+ {
+  "id": 237,
+  "domain": "data",
+  "front": "What makes a sample fair?",
+  "back": "A fair sample should be chosen randomly, so every member of the population has a chance of being picked. It should also be large enough to represent different grades, interests, and backgrounds. Small or hand-picked samples produce biased results."
+ },
+ {
+  "id": 238,
+  "domain": "data",
+  "front": "What is a frequency table?",
+  "back": "A frequency table organizes raw data by listing each possible value next to how many times it occurred. Frequency just means how often something happens. It turns a messy list of data into a clear two-column summary."
+ },
+ {
+  "id": 239,
+  "domain": "data",
+  "front": "What is a tally chart and how are marks grouped?",
+  "back": "A tally chart records one mark each time a value appears in the data. Marks are grouped in bundles of five, with the fifth mark drawn as a diagonal line across the first four. This makes counting fast because you count by fives."
+ },
+ {
+  "id": 240,
+  "domain": "data",
+  "front": "How do you check a frequency table is correct?",
+  "back": "Add up the whole frequency column. The total must match the number of data points you started with. If 20 students were surveyed, the frequencies must add to 20."
+ },
+ {
+  "id": 241,
+  "domain": "data",
+  "front": "Frequencies are 2, 7, 6, 4, 1 for 20 students. Which value is most common?",
+  "back": "The value with frequency 7 is the most common because 7 is the highest frequency. Also check the total: 2 + 7 + 6 + 4 + 1 = 20, which matches the 20 students. That confirms the counting is correct."
+ },
+ {
+  "id": 242,
+  "domain": "data",
+  "front": "A tally shows 3 bundles of five plus 2 extra marks. What is the frequency?",
+  "back": "Each bundle of five counts as 5, so 3 bundles equal 15. Add the 2 extra single marks to get 17. Counting in fives first is faster and safer than counting every mark."
+ },
+ {
+  "id": 243,
+  "domain": "data",
+  "front": "Trap: what is the most common tally chart mistake?",
+  "back": "Miscounting the bundles of five and single marks. Always add up the final frequency column and check that the total matches the number of data points you collected. If it does not match, recount."
+ },
+ {
+  "id": 244,
+  "domain": "data",
+  "front": "When do you use a bar graph?",
+  "back": "Use a bar graph for categorical data or discrete numerical data. Each separate bar shows the frequency of one category or value. The bars do not touch because the categories are separate."
+ },
+ {
+  "id": 245,
+  "domain": "data",
+  "front": "When do you use a histogram?",
+  "back": "Use a histogram for continuous numerical data grouped into ranges called intervals or bins. An example is test scores grouped as 60 to 69, 70 to 79, and so on. The bars touch because the data is continuous."
+ },
+ {
+  "id": 246,
+  "domain": "data",
+  "front": "Key visual difference: bar graph vs histogram?",
+  "back": "In a bar graph the bars are separate and do not touch, because each bar is its own category. In a histogram the bars touch with no gaps, because the intervals of continuous data flow into each other. Spotting gaps or no gaps tells you which graph you are looking at."
+ },
+ {
+  "id": 247,
+  "domain": "data",
+  "front": "When do you use a circle graph?",
+  "back": "Use a circle graph, also called a pie graph, to show how a whole is split into parts. Each slice shows what percent of the total a category makes up. It works best when you want to emphasize each category's share of the whole."
+ },
+ {
+  "id": 248,
+  "domain": "data",
+  "front": "20 of 40 students walk to school. What percent is that?",
+  "back": "Divide 20 by 40 to get 0.5, then multiply by 100 to get 50%. In a circle graph, walking would take half the circle. Always check that all category percents add to 100%."
+ },
+ {
+  "id": 249,
+  "domain": "data",
+  "front": "How do you turn a percent into a circle graph angle?",
+  "back": "Write the percent as a decimal and multiply by 360, because a full circle has 360 degrees. For example, 25% is 0.25 times 360, which equals 90 degrees. All the slice angles together must add to 360 degrees."
+ },
+ {
+  "id": 250,
+  "domain": "data",
+  "front": "What angle does a 15% slice get in a circle graph?",
+  "back": "Multiply 0.15 by 360 degrees to get 54 degrees. The percent as a decimal times 360 always gives the slice angle. Check your work by making sure all slices sum to 360."
+ },
+ {
+  "id": 251,
+  "domain": "data",
+  "front": "10 of 40 students take the bus. Find the percent and the slice angle.",
+  "back": "10 divided by 40 equals 0.25, which is 25%. Multiply 0.25 by 360 to get a 90 degree slice. That is a quarter of the circle, which matches a quarter of the students."
+ },
+ {
+  "id": 252,
+  "domain": "data",
+  "front": "Which graph fits test scores grouped 60 to 69, 70 to 79, 80 to 89?",
+  "back": "A histogram. The scores are continuous numerical data grouped into intervals, so the bars should touch with no gaps. A bar graph would be wrong because it is for separate categories."
+ },
+ {
+  "id": 253,
+  "domain": "data",
+  "front": "Which graph best shows each category's share of a whole?",
+  "back": "A circle graph, because each slice's size shows the category's percent of the total. Use it when the message is about parts of a whole, like how students travel to school. Use bar graphs when comparing counts across categories instead."
+ },
+ {
+  "id": 254,
+  "domain": "data",
+  "front": "What is a measure of central tendency?",
+  "back": "It is a single number that describes the middle or typical value of a data set. The three main measures are mean, median, and mode. Each is calculated differently and is useful in different situations."
+ },
+ {
+  "id": 255,
+  "domain": "data",
+  "front": "How do you calculate the mean?",
+  "back": "Add up every value in the data set, then divide by how many values there are. The mean is what most people call the average. Because it uses every value, one extreme value can pull it up or down."
+ },
+ {
+  "id": 256,
+  "domain": "data",
+  "front": "How do you find the median?",
+  "back": "First sort the data from smallest to largest. If there is an odd number of values, the median is the single middle value. If there is an even number, the median is the mean of the two middle values."
+ },
+ {
+  "id": 257,
+  "domain": "data",
+  "front": "What is the mode of a data set?",
+  "back": "The mode is the value that appears most often. A data set can have one mode, more than one mode if values tie, or no mode at all if every value appears equally often. It is the only measure that works for categorical data."
+ },
+ {
+  "id": 258,
+  "domain": "data",
+  "front": "Find the median of 3, 7, 8, 12, 15.",
+  "back": "The data is already sorted and has 5 values, an odd number. The median is the middle value, which is the 3rd one. So the median is 8."
+ },
+ {
+  "id": 259,
+  "domain": "data",
+  "front": "Find the mean of 4, 6, 8, 10, 12.",
+  "back": "Add the values: 4 + 6 + 8 + 10 + 12 = 40. Divide by the count of 5 values. The mean is 40 divided by 5, which equals 8."
+ },
+ {
+  "id": 260,
+  "domain": "data",
+  "front": "Find the median of 4, 8, 10, 14.",
+  "back": "There are 4 values, an even number, so the median is the mean of the two middle values. The middle values are 8 and 10, and their sum is 18. Divide 18 by 2 to get a median of 9."
+ },
+ {
+  "id": 261,
+  "domain": "data",
+  "front": "Find the mode of 2, 3, 3, 5, 3, 7.",
+  "back": "Count how often each value appears. The value 3 appears three times, more than any other value. So the mode is 3."
+ },
+ {
+  "id": 262,
+  "domain": "data",
+  "front": "Find the mean of 10, 20, 30, 40.",
+  "back": "Add the values: 10 + 20 + 30 + 40 = 100. Divide by the count of 4 values. The mean is 100 divided by 4, which equals 25."
+ },
+ {
+  "id": 263,
+  "domain": "data",
+  "front": "Find the median of 9, 2, 5, 7, 1.",
+  "back": "First sort the data: 1, 2, 5, 7, 9. There are 5 values, so the median is the 3rd one. The median is 5, and sorting first is the step most students forget."
+ },
+ {
+  "id": 264,
+  "domain": "data",
+  "front": "What is an outlier?",
+  "back": "An outlier is a value that sits far away from the rest of the data, either much higher or much lower. Outliers pull the mean toward them because the mean uses every value. The median barely moves, so it handles outliers better."
+ },
+ {
+  "id": 265,
+  "domain": "data",
+  "front": "When is the median better than the mean?",
+  "back": "When the data set has an outlier. The outlier drags the mean toward it, so the mean stops representing a typical value. The median stays near the middle of the data, so it gives a fairer picture."
+ },
+ {
+  "id": 266,
+  "domain": "data",
+  "front": "Allowances: $10, $12, $13, $14, $15, $16, $100. Why is the mean misleading?",
+  "back": "The sum is 180, so the mean is 180 divided by 7, about $25.70. But six of the seven students get between $10 and $16, so $25.70 is not typical. The $100 outlier pulled the mean up, and the median of $14 is fairer."
+ },
+ {
+  "id": 267,
+  "domain": "data",
+  "front": "Can a data set have no mode or two modes?",
+  "back": "Yes to both. If every value appears the same number of times, there is no mode. If two values tie for appearing most often, the set has two modes."
+ },
+ {
+  "id": 268,
+  "domain": "data",
+  "front": "Find the median of 1, 2, 3, 100.",
+  "back": "There are 4 values, so average the two middle ones, 2 and 3. The median is 5 divided by 2, which is 2.5. Notice the outlier 100 does not affect the median at all."
+ },
+ {
+  "id": 269,
+  "domain": "data",
+  "front": "Which measure works for categorical data like favorite color?",
+  "back": "Only the mode. You cannot add or order categories, so mean and median are impossible. The mode simply names the most frequent category, like the most popular color."
+ },
+ {
+  "id": 270,
+  "domain": "data",
+  "front": "Trap: mean vs median, what is the key difference in method?",
+  "back": "Mean means add all the values and divide by the count. Median means sort the values first, then pick the middle one, or average the two middle values if the count is even. Always reread the question to check which one it wants."
+ },
+ {
+  "id": 271,
+  "domain": "data",
+  "front": "Scores 62, 75, 75, 80, 85, 90, 95: find mean, median, and mode.",
+  "back": "The sum is 562, and 562 divided by 7 is about 80.3, the mean. With 7 sorted values the median is the 4th, which is 80. The mode is 75 because it appears twice and every other value appears once."
+ },
+ {
+  "id": 272,
+  "domain": "data",
+  "front": "How do you calculate the range of a data set?",
+  "back": "Subtract the smallest value from the largest value. Range equals maximum minus minimum. It measures how spread out the data is with a single number."
+ },
+ {
+  "id": 273,
+  "domain": "data",
+  "front": "Find the range of 12, 5, 9, 20.",
+  "back": "The largest value is 20 and the smallest is 5. The range is 20 minus 5, which equals 15. Always identify the true maximum and minimum before subtracting."
+ },
+ {
+  "id": 274,
+  "domain": "data",
+  "front": "What does a small range tell you? A large range?",
+  "back": "A small range means the values are bunched close together, which is low variability. A large range means the values are spread far apart, which is high variability. Range gives a quick first look at spread."
+ },
+ {
+  "id": 275,
+  "domain": "data",
+  "front": "Trap: why can range be misleading?",
+  "back": "Range only uses the two extreme values, so one outlier can inflate it. Set A: 10, 11, 12, 13, 14 has range 4, while Set B: 10, 11, 12, 13, 50 has range 40. Set B looks far more spread out, but only the one value 50 is unusual."
+ },
+ {
+  "id": 276,
+  "domain": "data",
+  "front": "What is two-variable data?",
+  "back": "Two-variable data measures two different quantities on the same subjects, like each student's hours studied and test score. The goal is to see if there is a relationship between the two variables. One-variable data studies just a single quantity."
+ },
+ {
+  "id": 277,
+  "domain": "data",
+  "front": "What is a scatter plot?",
+  "back": "A scatter plot displays two-variable data as points. Each point represents one subject, placed using one value on the x-axis and one on the y-axis. For example, one student could be plotted at (hours studied, test score)."
+ },
+ {
+  "id": 278,
+  "domain": "data",
+  "front": "What is positive correlation?",
+  "back": "Positive correlation means that as one variable increases, the other tends to increase too. The points on the scatter plot trend upward from left to right. An example is hours studied and test scores."
+ },
+ {
+  "id": 279,
+  "domain": "data",
+  "front": "What is negative correlation?",
+  "back": "Negative correlation means that as one variable increases, the other tends to decrease. The points trend downward from left to right. An example is hours of gaming the night before a test and the test score."
+ },
+ {
+  "id": 280,
+  "domain": "data",
+  "front": "What does no correlation look like on a scatter plot?",
+  "back": "The points are scattered randomly with no clear upward or downward pattern. Knowing one variable tells you nothing about the other. Do not confuse this with a weak correlation, where a faint trend still exists."
+ },
+ {
+  "id": 281,
+  "domain": "data",
+  "front": "Points: (1, 60), (2, 68), (3, 74), (4, 80), (5, 88), (6, 93). Correlation type?",
+  "back": "As the x-values rise from 1 to 6, the y-values rise steadily from 60 to 93. This is a positive correlation. The points would trend upward from left to right on a scatter plot."
+ },
+ {
+  "id": 282,
+  "domain": "data",
+  "front": "Points: (1, 90), (2, 85), (3, 78), (4, 70), (5, 65), (6, 58). Correlation type?",
+  "back": "As the x-values increase, the y-values steadily decrease from 90 to 58. This is a negative correlation. The points would trend downward from left to right."
+ },
+ {
+  "id": 283,
+  "domain": "data",
+  "front": "What is a line of best fit?",
+  "back": "It is a single straight line drawn through a scatter plot to represent the overall trend. It usually does not pass through every point exactly. A good line has roughly the same number of points above it as below it."
+ },
+ {
+  "id": 284,
+  "domain": "data",
+  "front": "How do you use a line of best fit to make a prediction?",
+  "back": "Find the x-value you are interested in, like 3.5 hours of studying. Read straight up to the line, then across to the y-axis to read the predicted value. This lets you estimate values that were never directly measured."
+ },
+ {
+  "id": 285,
+  "domain": "data",
+  "front": "Trap: does correlation prove causation?",
+  "back": "No. Two variables can rise and fall together for another reason entirely. Ice cream sales and sunburns both rise in summer, but ice cream does not cause sunburns; hot sunny weather causes both. Remember: correlation does not equal causation."
+ },
+ {
+  "id": 286,
+  "domain": "data",
+  "front": "Trap: how do you judge a scatter plot's trend correctly?",
+  "back": "Look at the overall direction of the whole cloud of points, not just two or three individual points. A few odd points do not erase a clear upward or downward trend. Confusing no correlation with a weak correlation is a common exam mistake."
+ },
+ {
+  "id": 287,
+  "domain": "data",
+  "front": "What is theoretical probability?",
+  "back": "Theoretical probability is calculated with logic before any event happens. The formula is favorable outcomes divided by total possible outcomes. A favorable outcome is any outcome that counts as a success."
+ },
+ {
+  "id": 288,
+  "domain": "data",
+  "front": "What is experimental probability?",
+  "back": "Experimental probability comes from actually performing trials and recording real results. The formula is times the event occurred divided by total trials. It usually lands close to, but not exactly on, the theoretical value."
+ },
+ {
+  "id": 289,
+  "domain": "data",
+  "front": "What is the probability of rolling a 4 on a standard die?",
+  "back": "A die has 6 sides and only one shows a 4, so the probability is 1/6. As a decimal that is about 0.167, and as a percent about 16.7%. This is a theoretical probability because it uses logic, not trials."
+ },
+ {
+  "id": 290,
+  "domain": "data",
+  "front": "A bag has 5 red, 3 blue, 2 green marbles. P(blue)?",
+  "back": "There are 3 favorable outcomes out of 10 marbles in total. The probability is 3/10, which is 0.3 as a decimal. As a percent, that is 30%."
+ },
+ {
+  "id": 291,
+  "domain": "data",
+  "front": "A die is rolled 50 times and shows a 4 exactly 8 times. Experimental probability?",
+  "back": "Divide the 8 times the event occurred by the 50 total trials. That gives 8/50, which equals 0.16, or 16%. It is close to the theoretical 16.7% but not exact, which is normal."
+ },
+ {
+  "id": 292,
+  "domain": "data",
+  "front": "What is the probability of rolling an even number on a die?",
+  "back": "The even outcomes are 2, 4, and 6, which is 3 favorable outcomes out of 6. The probability is 3/6, which simplifies to 1/2. As a decimal that is 0.5, or 50%."
+ },
+ {
+  "id": 293,
+  "domain": "data",
+  "front": "Write the probability 3/5 as a decimal and a percent.",
+  "back": "Divide 3 by 5 to get 0.6. Multiply by 100 to get 60%. Every probability can be written as a fraction, a decimal, or a percent, and you should be able to switch between all three."
+ },
+ {
+  "id": 294,
+  "domain": "data",
+  "front": "What do probabilities of 0 and 1 mean?",
+  "back": "A probability of 0 means the event is impossible. A probability of 1 means the event is certain. Every probability sits between 0 and 1, so an answer like 1.4 or a negative number must be a mistake."
+ },
+ {
+  "id": 295,
+  "domain": "data",
+  "front": "Why do experimental and theoretical probability usually differ?",
+  "back": "Real trials involve chance, so results rarely match the theory exactly, especially with few trials. That difference is normal, not an error. The more trials you perform, the closer experimental probability tends to get to the theoretical value."
+ },
+ {
+  "id": 296,
+  "domain": "data",
+  "front": "Trap: a question describes 40 recorded coin flips. Which probability does it want?",
+  "back": "Experimental probability, because it describes real trials that were actually recorded. Divide the number of times the event happened by the 40 trials. Theoretical probability is only for reasoning about outcomes before or without an experiment."
+ },
+ {
+  "id": 297,
+  "domain": "data",
+  "front": "What is a truncated axis and why is it misleading?",
+  "back": "A truncated axis is a vertical axis that does not start at zero, for example starting at 50. Cutting out the bottom space makes small real differences between bars look huge. Always check where the axis starts before trusting how big a difference looks."
+ },
+ {
+  "id": 298,
+  "domain": "data",
+  "front": "What is cherry-picking data?",
+  "back": "Cherry-picking means showing only the data or time period that supports your point while leaving out the rest. A company might advertise that sales are up this month while hiding a year-long decline. Always ask whether the graph shows the complete picture."
+ },
+ {
+  "id": 299,
+  "domain": "data",
+  "front": "Name two more graph tricks besides a truncated axis.",
+  "back": "Inconsistent scales, where axis numbers jump unevenly, like 0 to 10 to 50 with equal spacing, distorting how steep a trend looks. Also 3D or oversized images, which make the eye judge visual size instead of the actual number. Both can make differences look bigger or smaller than they really are."
+ },
+ {
+  "id": 300,
+  "domain": "data",
+  "front": "What three things should you check on any graph?",
+  "back": "First, does the vertical axis start at zero. Second, is the scale consistent, with equal jumps between numbers. Third, does the data show the complete picture, or just a cherry-picked slice that supports one side."
+ },
+ {
+  "id": 301,
+  "domain": "geometry_and_measurement",
+  "front": "How many millimetres are in 1 centimetre?",
+  "back": "There are 10 mm in 1 cm. To change centimetres into millimetres, multiply by 10. To change millimetres into centimetres, divide by 10."
+ },
+ {
+  "id": 302,
+  "domain": "geometry_and_measurement",
+  "front": "How many centimetres are in 1 metre?",
+  "back": "There are 100 cm in 1 m. Multiply by 100 to go from metres to centimetres. Divide by 100 to go the other way."
+ },
+ {
+  "id": 303,
+  "domain": "geometry_and_measurement",
+  "front": "How many metres are in 1 kilometre?",
+  "back": "There are 1000 m in 1 km. Multiply by 1000 to change kilometres into metres. Divide by 1000 to change metres into kilometres."
+ },
+ {
+  "id": 304,
+  "domain": "geometry_and_measurement",
+  "front": "When converting units, do you multiply or divide going from a bigger unit to a smaller one?",
+  "back": "You multiply when going from a bigger unit to a smaller unit, like metres to centimetres. You divide when going from a smaller unit to a bigger unit. Smaller units mean you need more of them, so the number gets bigger."
+ },
+ {
+  "id": 305,
+  "domain": "geometry_and_measurement",
+  "front": "Convert 4.5 m to centimetres.",
+  "back": "Since 1 m equals 100 cm, multiply by 100. So 4.5 times 100 equals 450 cm. Going from a bigger unit to a smaller unit always means multiplying."
+ },
+ {
+  "id": 306,
+  "domain": "geometry_and_measurement",
+  "front": "Convert 3200 mm to metres.",
+  "back": "There are 1000 mm in 1 m, so divide by 1000. That gives 3200 divided by 1000, which is 3.2 m. Going from a smaller unit to a bigger unit means dividing."
+ },
+ {
+  "id": 307,
+  "domain": "geometry_and_measurement",
+  "front": "Convert 2.4 km to metres.",
+  "back": "Since 1 km equals 1000 m, multiply by 1000. So 2.4 times 1000 equals 2400 m. Kilometres are bigger than metres, so the number of metres must be larger."
+ },
+ {
+  "id": 308,
+  "domain": "geometry_and_measurement",
+  "front": "How many square centimetres are in 1 square metre?",
+  "back": "There are 10 000 cm squared in 1 m squared, not 100. Area is length times length, so the conversion factor gets squared: 100 times 100 equals 10 000. Forgetting to square the factor is one of the most common exam mistakes."
+ },
+ {
+  "id": 309,
+  "domain": "geometry_and_measurement",
+  "front": "How many square millimetres are in 1 square centimetre?",
+  "back": "There are 100 mm squared in 1 cm squared. Since 1 cm equals 10 mm, a square centimetre is 10 mm by 10 mm, which is 100 mm squared. The length factor of 10 gets squared for area."
+ },
+ {
+  "id": 310,
+  "domain": "geometry_and_measurement",
+  "front": "Convert 3.5 m squared to cm squared.",
+  "back": "Multiply by 10 000, not 100, because area conversions use the length factor squared. So 3.5 times 10 000 equals 35 000 cm squared. Always ask whether you are converting a length or an area before choosing the factor."
+ },
+ {
+  "id": 311,
+  "domain": "geometry_and_measurement",
+  "front": "How many cubic centimetres are in 1 cubic metre?",
+  "back": "There are 1 000 000 cm cubed in 1 m cubed. Volume is length times length times length, so the factor of 100 gets cubed: 100 times 100 times 100 equals 1 000 000."
+ },
+ {
+  "id": 312,
+  "domain": "geometry_and_measurement",
+  "front": "How many cubic millimetres are in 1 cubic centimetre?",
+  "back": "There are 1000 mm cubed in 1 cm cubed. Since 1 cm equals 10 mm, a cubic centimetre is 10 by 10 by 10 mm, which is 1000 mm cubed. The length factor gets cubed for volume."
+ },
+ {
+  "id": 313,
+  "domain": "geometry_and_measurement",
+  "front": "How many cubic centimetres equal 1 litre?",
+  "back": "One litre equals 1000 cm cubed. This connects volume to capacity, which is how much liquid a container holds. To change cm cubed into litres, divide by 1000."
+ },
+ {
+  "id": 314,
+  "domain": "geometry_and_measurement",
+  "front": "A fish tank has a volume of 45 000 cm cubed. How many litres does it hold?",
+  "back": "Divide by 1000 because 1 L equals 1000 cm cubed. So 45 000 divided by 1000 equals 45 L. This conversion shows up often in tank, pool, and container problems."
+ },
+ {
+  "id": 315,
+  "domain": "geometry_and_measurement",
+  "front": "Trap: why can you not use 100 to convert m squared to cm squared?",
+  "back": "The factor 100 only works for plain lengths. Area is two lengths multiplied together, so the factor must be squared, giving 10 000. Using the plain length factor for area or volume is the most common conversion error on tests."
+ },
+ {
+  "id": 316,
+  "domain": "geometry_and_measurement",
+  "front": "What is perimeter?",
+  "back": "Perimeter is the total distance around the outside edge of a flat shape. You find it by adding up the length of every side. It is measured in plain length units like cm or m."
+ },
+ {
+  "id": 317,
+  "domain": "geometry_and_measurement",
+  "front": "What is the formula for the perimeter of a rectangle?",
+  "back": "P equals 2 times (length plus width), because a rectangle has two pairs of equal sides. For example, a rectangle 8 cm by 5 cm has P equals 2 times 13, which is 26 cm."
+ },
+ {
+  "id": 318,
+  "domain": "geometry_and_measurement",
+  "front": "A triangle has sides 5 cm, 6 cm, and 7 cm. What is its perimeter?",
+  "back": "There is no shortcut formula for a triangle, so just add all three sides. P equals 5 plus 6 plus 7, which is 18 cm."
+ },
+ {
+  "id": 319,
+  "domain": "geometry_and_measurement",
+  "front": "How do you find the perimeter of an L-shaped composite figure?",
+  "back": "Trace around the entire outer boundary and add every segment, including sides that are not labeled. Find missing sides by subtracting known lengths from the full width or height. Then add all the sides together."
+ },
+ {
+  "id": 320,
+  "domain": "geometry_and_measurement",
+  "front": "What is circumference?",
+  "back": "Circumference is the special name for the perimeter of a circle, the distance all the way around it. It is found using pi, which is about 3.14, times the diameter."
+ },
+ {
+  "id": 321,
+  "domain": "geometry_and_measurement",
+  "front": "What is the circumference formula using the diameter?",
+  "back": "C equals pi times d, where d is the diameter, the distance straight across the circle through its centre. Pi is a fixed number, about 3.14, describing how circumference relates to diameter."
+ },
+ {
+  "id": 322,
+  "domain": "geometry_and_measurement",
+  "front": "What is the circumference formula using the radius?",
+  "back": "C equals 2 times pi times r. This works because the diameter is double the radius, so pi times d becomes pi times 2r. Both forms give the same answer."
+ },
+ {
+  "id": 323,
+  "domain": "geometry_and_measurement",
+  "front": "How are radius and diameter related?",
+  "back": "The diameter is always exactly double the radius: d equals 2r. The radius goes from the centre to the edge, while the diameter goes all the way across through the centre. Mixing these up is a classic exam trap."
+ },
+ {
+  "id": 324,
+  "domain": "geometry_and_measurement",
+  "front": "A circle has a diameter of 14 cm. What is its circumference?",
+  "back": "Use C equals pi times d. That gives 3.14 times 14, which equals 43.96 cm, or about 44 cm. Since the diameter was given, you did not need to double anything."
+ },
+ {
+  "id": 325,
+  "domain": "geometry_and_measurement",
+  "front": "A circle has a radius of 6 cm. What is its circumference?",
+  "back": "Use C equals 2 times pi times r. That gives 2 times 3.14 times 6, which equals 37.68 cm. You could also double the radius to get diameter 12 and use pi times d."
+ },
+ {
+  "id": 326,
+  "domain": "geometry_and_measurement",
+  "front": "What is the area formula for a rectangle?",
+  "back": "A equals length times width. For example, a rectangle 12 cm long and 7 cm wide has area 12 times 7, which is 84 cm squared. Area is always given in square units."
+ },
+ {
+  "id": 327,
+  "domain": "geometry_and_measurement",
+  "front": "What is the area formula for a triangle?",
+  "back": "A equals one half times base times height. The height must be measured at a right angle from the base to the opposite corner, not along a slanted side."
+ },
+ {
+  "id": 328,
+  "domain": "geometry_and_measurement",
+  "front": "A triangle has base 10 cm and height 6 cm. What is its area?",
+  "back": "A equals one half times 10 times 6. Half of 60 is 30, so the area is 30 cm squared. Remember to take half, or your answer will be double the true area."
+ },
+ {
+  "id": 329,
+  "domain": "geometry_and_measurement",
+  "front": "Trap: which height do you use in triangle and parallelogram area formulas?",
+  "back": "Always use the perpendicular height, the one that meets the base at a right angle. Never use a slanted side length as the height. Using the slant instead of the true height gives an answer that is too big."
+ },
+ {
+  "id": 330,
+  "domain": "geometry_and_measurement",
+  "front": "What is the area formula for a parallelogram?",
+  "back": "A equals base times height, using the perpendicular height, not the slanted side. Unlike a triangle, there is no one half in this formula."
+ },
+ {
+  "id": 331,
+  "domain": "geometry_and_measurement",
+  "front": "A parallelogram has base 9 cm and height 4 cm. What is its area?",
+  "back": "A equals base times height, so 9 times 4 equals 36 cm squared. The height here is the straight up and down distance between the two parallel bases."
+ },
+ {
+  "id": 332,
+  "domain": "geometry_and_measurement",
+  "front": "What is the area formula for a trapezoid?",
+  "back": "A equals (base1 plus base2) divided by 2, times height. A trapezoid has one pair of parallel sides, and those two sides are base1 and base2. You are averaging the two bases, then multiplying by the height."
+ },
+ {
+  "id": 333,
+  "domain": "geometry_and_measurement",
+  "front": "A trapezoid has parallel sides 8 cm and 14 cm and height 5 cm. What is its area?",
+  "back": "Average the bases first: 8 plus 14 equals 22, and 22 divided by 2 equals 11. Then multiply by the height: 11 times 5 equals 55 cm squared."
+ },
+ {
+  "id": 334,
+  "domain": "geometry_and_measurement",
+  "front": "What is the area formula for a circle?",
+  "back": "A equals pi times r squared. Square the radius first, then multiply by pi. This formula always needs the radius, never the diameter."
+ },
+ {
+  "id": 335,
+  "domain": "geometry_and_measurement",
+  "front": "A circle has a radius of 7 cm. What is its area?",
+  "back": "A equals pi times r squared, so 3.14 times 7 squared. Since 7 squared is 49, the area is 3.14 times 49, which equals 153.86 cm squared."
+ },
+ {
+  "id": 336,
+  "domain": "geometry_and_measurement",
+  "front": "Trap: a circle's diameter is 10 cm. What is its area?",
+  "back": "Do not square the diameter. Halve it first to get the radius: 10 divided by 2 equals 5 cm. Then A equals 3.14 times 5 squared, which is 3.14 times 25, giving 78.5 cm squared."
+ },
+ {
+  "id": 337,
+  "domain": "geometry_and_measurement",
+  "front": "Which circle formula can use the diameter directly, and which cannot?",
+  "back": "Circumference can use the diameter directly, since C equals pi times d. Area cannot: A equals pi times r squared always needs the radius. If a question gives the diameter for an area problem, cut it in half first."
+ },
+ {
+  "id": 338,
+  "domain": "geometry_and_measurement",
+  "front": "How do you find the area of a semicircle?",
+  "back": "Find the full circle's area with pi times r squared, then take half of it. A semicircle is exactly half a circle, so its area is one half times pi times r squared."
+ },
+ {
+  "id": 339,
+  "domain": "geometry_and_measurement",
+  "front": "What does it mean to decompose a composite shape?",
+  "back": "A composite shape combines two or more basic shapes, like an L-shaped room. Decomposing means mentally cutting it into simple pieces such as rectangles, triangles, trapezoids, or circles. You find each piece's area separately, then add them together."
+ },
+ {
+  "id": 340,
+  "domain": "geometry_and_measurement",
+  "front": "A 10 by 6 cm rectangle has a triangle on top, base 10 cm, height 4 cm. Total area?",
+  "back": "The rectangle's area is 10 times 6, which is 60 cm squared. The triangle's area is one half times 10 times 4, which is 20 cm squared. Adding them gives 60 plus 20, which equals 80 cm squared."
+ },
+ {
+  "id": 341,
+  "domain": "geometry_and_measurement",
+  "front": "When do you subtract areas instead of adding them in a composite shape problem?",
+  "back": "Subtract when a smaller shape has been removed from a larger one, like a square plate with a circular hole cut out. Find the big shape's area, find the removed shape's area, then subtract the hole from the whole."
+ },
+ {
+  "id": 342,
+  "domain": "geometry_and_measurement",
+  "front": "A 12 by 12 cm square has a circular hole of radius 3 cm. Remaining area?",
+  "back": "The square's area is 12 times 12, which is 144 cm squared. The circle's area is 3.14 times 3 squared, which is 3.14 times 9, giving 28.26 cm squared. Subtracting gives 144 minus 28.26, which equals 115.74 cm squared."
+ },
+ {
+  "id": 343,
+  "domain": "geometry_and_measurement",
+  "front": "What is surface area, and what is a net?",
+  "back": "Surface area is the total area of every outside face of a 3D solid added together. A net is the flat 2D pattern you get by unfolding the solid, showing all its faces laid out. Drawing the net helps you make sure no face gets missed."
+ },
+ {
+  "id": 344,
+  "domain": "geometry_and_measurement",
+  "front": "What is the surface area formula for a rectangular prism?",
+  "back": "SA equals 2 times (lw plus lh plus wh). A box has 6 rectangular faces in 3 matching pairs, so you find the three different face areas and double the total."
+ },
+ {
+  "id": 345,
+  "domain": "geometry_and_measurement",
+  "front": "A rectangular prism is 5 cm by 4 cm by 3 cm. What is its surface area?",
+  "back": "The three face areas are 5 times 4 equals 20, 5 times 3 equals 15, and 4 times 3 equals 12. Their sum is 47, and doubling gives SA equals 2 times 47, which is 94 cm squared."
+ },
+ {
+  "id": 346,
+  "domain": "geometry_and_measurement",
+  "front": "What is the surface area formula for a triangular prism?",
+  "back": "SA equals 2 times the triangle's area, plus the triangle's perimeter times the prism's length. The two triangles are the ends, and the perimeter times length covers the three rectangular sides that wrap around."
+ },
+ {
+  "id": 347,
+  "domain": "geometry_and_measurement",
+  "front": "Triangular prism: end triangle area 12 cm squared, perimeter 16 cm, length 10 cm. Surface area?",
+  "back": "The two triangle ends give 2 times 12, which is 24 cm squared. The wrap-around rectangles give 16 times 10, which is 160 cm squared. Adding gives 24 plus 160, which equals 184 cm squared."
+ },
+ {
+  "id": 348,
+  "domain": "geometry_and_measurement",
+  "front": "What is the surface area formula for a cylinder?",
+  "back": "SA equals 2 times pi times r squared, plus 2 times pi times r times h. The first part is the two circular ends, and the second part is the curved side, which unrolls into a rectangle whose width equals the circumference."
+ },
+ {
+  "id": 349,
+  "domain": "geometry_and_measurement",
+  "front": "A cylinder has radius 3 cm and height 10 cm. What is its surface area?",
+  "back": "The two circles give 2 times 3.14 times 9, which is 56.52 cm squared. The curved side gives 2 times 3.14 times 3 times 10, which is 188.4 cm squared. Adding gives 244.92 cm squared."
+ },
+ {
+  "id": 350,
+  "domain": "geometry_and_measurement",
+  "front": "What is the surface area formula for a cone?",
+  "back": "SA equals pi times r squared, plus pi times r times l, where l is the slant height. The first part is the circular base and the second part is the curved side. The slant height is measured along the outside surface from the base edge to the tip."
+ },
+ {
+  "id": 351,
+  "domain": "geometry_and_measurement",
+  "front": "A cone has radius 4 cm and slant height 9 cm. What is its surface area?",
+  "back": "The base gives 3.14 times 16, which is 50.24 cm squared. The curved side gives 3.14 times 4 times 9, which is 113.04 cm squared. Adding gives 163.28 cm squared."
+ },
+ {
+  "id": 352,
+  "domain": "geometry_and_measurement",
+  "front": "Trap: what is the difference between slant height and true height in a cone or pyramid?",
+  "back": "The true height is the straight up and down distance from the base to the tip. The slant height runs along the outside surface from the base edge to the tip, so it is always longer. Surface area formulas use the slant height, but volume formulas use the true height."
+ },
+ {
+  "id": 353,
+  "domain": "geometry_and_measurement",
+  "front": "What is the surface area formula for a square based pyramid?",
+  "back": "SA equals the base area, plus 4 times (one half times base side times slant height). The net is one square base plus 4 identical triangular faces, so you add the square's area to the four triangle areas."
+ },
+ {
+  "id": 354,
+  "domain": "geometry_and_measurement",
+  "front": "A square pyramid has base side 6 cm and slant height 5 cm. What is its surface area?",
+  "back": "The base area is 6 times 6, which is 36 cm squared. Each triangular face is one half times 6 times 5, which is 15 cm squared, and four of them give 60 cm squared. Adding gives 36 plus 60, which equals 96 cm squared."
+ },
+ {
+  "id": 355,
+  "domain": "geometry_and_measurement",
+  "front": "What is the surface area formula for a sphere?",
+  "back": "SA equals 4 times pi times r squared. A sphere is a perfectly round ball with no flat faces and no true net, but this formula still gives its total outside area."
+ },
+ {
+  "id": 356,
+  "domain": "geometry_and_measurement",
+  "front": "A sphere has radius 5 cm. What is its surface area?",
+  "back": "SA equals 4 times 3.14 times 5 squared. Since 5 squared is 25, that gives 4 times 3.14 times 25, which equals 314 cm squared."
+ },
+ {
+  "id": 357,
+  "domain": "geometry_and_measurement",
+  "front": "Trap: what is a common mistake when finding the surface area of a solid?",
+  "back": "Forgetting a face, like leaving out one of the two circular ends of a cylinder or a face of a box. Before calculating, list every face the solid has, drawing the net if it helps. Check your total face count against your list so nothing gets skipped."
+ },
+ {
+  "id": 358,
+  "domain": "geometry_and_measurement",
+  "front": "What is volume, and what units is it measured in?",
+  "back": "Volume measures how much space a 3D solid takes up, or how much it could hold inside. It is always given in cubic units, like cm cubed or m cubed, because you are filling a three dimensional space."
+ },
+ {
+  "id": 359,
+  "domain": "geometry_and_measurement",
+  "front": "What is the volume formula for a rectangular prism?",
+  "back": "V equals length times width times height. For example, a box 5 cm by 4 cm by 3 cm has volume 5 times 4 times 3, which equals 60 cm cubed."
+ },
+ {
+  "id": 360,
+  "domain": "geometry_and_measurement",
+  "front": "What is the volume formula for a triangular prism?",
+  "back": "V equals the area of the triangular end times the prism's length. For example, if the end triangle has area 12 cm squared and the prism is 10 cm long, the volume is 12 times 10, which equals 120 cm cubed."
+ },
+ {
+  "id": 361,
+  "domain": "geometry_and_measurement",
+  "front": "What is the volume formula for a cylinder?",
+  "back": "V equals pi times r squared times h. You are finding the circular base's area first, then multiplying by the height, just like any prism-style solid."
+ },
+ {
+  "id": 362,
+  "domain": "geometry_and_measurement",
+  "front": "A cylinder has radius 3 cm and height 10 cm. What is its volume?",
+  "back": "V equals 3.14 times 3 squared times 10. Since 3 squared is 9, that gives 3.14 times 90, which equals 282.6 cm cubed."
+ },
+ {
+  "id": 363,
+  "domain": "geometry_and_measurement",
+  "front": "What is the volume formula for a cone?",
+  "back": "V equals one third times pi times r squared times h, using the true vertical height, not the slant height. A cone holds exactly one third the volume of a cylinder with the same radius and height."
+ },
+ {
+  "id": 364,
+  "domain": "geometry_and_measurement",
+  "front": "A cone has radius 4 cm and true height 9 cm. What is its volume?",
+  "back": "V equals one third times 3.14 times 16 times 9. First, 3.14 times 16 times 9 equals 452.16, and one third of that is 150.72 cm cubed. Notice the volume formula uses the true height, not the slant height."
+ },
+ {
+  "id": 365,
+  "domain": "geometry_and_measurement",
+  "front": "How does a cone's volume compare to a cylinder's with the same radius and height?",
+  "back": "A cone always holds exactly one third the volume of that cylinder. So if a cylinder holds 300 cm cubed, a cone with the same base and height holds 100 cm cubed. The one third in the cone formula comes from this relationship."
+ },
+ {
+  "id": 366,
+  "domain": "geometry_and_measurement",
+  "front": "What is the volume formula for a square based pyramid?",
+  "back": "V equals one third times base area times height, using the straight up and down height. A pyramid holds exactly one third the volume of a rectangular prism with the same base and height."
+ },
+ {
+  "id": 367,
+  "domain": "geometry_and_measurement",
+  "front": "A square pyramid has base side 6 cm and height 8 cm. What is its volume?",
+  "back": "The base area is 6 times 6, which is 36 cm squared. Then V equals one third times 36 times 8, and one third of 288 is 96 cm cubed."
+ },
+ {
+  "id": 368,
+  "domain": "geometry_and_measurement",
+  "front": "What is the volume formula for a sphere?",
+  "back": "V equals four thirds times pi times r cubed. Cube the radius first, then multiply by pi, then by four thirds. Do not confuse this with the surface area formula, which uses r squared."
+ },
+ {
+  "id": 369,
+  "domain": "geometry_and_measurement",
+  "front": "A sphere has radius 5 cm. What is its volume?",
+  "back": "V equals four thirds times 3.14 times 5 cubed. Since 5 cubed is 125, that gives four thirds times 392.5, which equals about 523.33 cm cubed."
+ },
+ {
+  "id": 370,
+  "domain": "geometry_and_measurement",
+  "front": "Trap: in a triangular prism, what two different things can the word height mean?",
+  "back": "It can mean the height of the triangular end, used inside the triangle area formula. It can also mean the length of the whole prism, used for the side rectangles and the volume. Always label which height you are using before calculating."
+ },
+ {
+  "id": 371,
+  "domain": "geometry_and_measurement",
+  "front": "For a fixed perimeter, which rectangle has the maximum area?",
+  "back": "The square. With the perimeter locked at one value, the closer a rectangle is to a square, the bigger its area. Stretched, skinny rectangles waste perimeter and cover less area."
+ },
+ {
+  "id": 372,
+  "domain": "geometry_and_measurement",
+  "front": "You have exactly 24 m of fencing for a rectangular yard. What shape gives the biggest area?",
+  "back": "A 6 m by 6 m square, which uses all 24 m of fencing and gives 36 m squared. An 8 by 4 rectangle uses the same fencing but only gives 32 m squared. The square always wins for a fixed perimeter."
+ },
+ {
+  "id": 373,
+  "domain": "geometry_and_measurement",
+  "front": "Why does a 10 by 2 m rectangle have less area than a 6 by 6 square?",
+  "back": "Its perimeter is still 24 m, but its area is only 10 times 2, which is 20 m squared, compared to 36 m squared for the 6 by 6 square. As a rectangle gets more stretched out, the area shrinks even though the perimeter stays the same."
+ },
+ {
+  "id": 374,
+  "domain": "geometry_and_measurement",
+  "front": "For a fixed area, which rectangle has the minimum perimeter?",
+  "back": "The square again. If the area is locked at one value, the square needs the least perimeter to enclose it. Any longer, skinnier rectangle with the same area needs more perimeter."
+ },
+ {
+  "id": 375,
+  "domain": "geometry_and_measurement",
+  "front": "Area fixed at 36 m squared: compare perimeters of a 6 by 6 square and 9 by 4 rectangle.",
+  "back": "Both have area 36 m squared. The square's perimeter is 2 times (6 plus 6), which is 24 m. The 9 by 4 rectangle needs 2 times (9 plus 4), which is 26 m, so the square uses less fencing for the same area."
+ },
+ {
+  "id": 376,
+  "domain": "geometry_and_measurement",
+  "front": "What does optimization mean in measurement problems?",
+  "back": "Optimization means finding the best possible option out of many and using math to prove it. In Grade 9, it usually means showing a square gives the most area for a fixed perimeter, or the least perimeter for a fixed area."
+ },
+ {
+  "id": 377,
+  "domain": "geometry_and_measurement",
+  "front": "What is the Cartesian plane?",
+  "back": "It is a flat grid used to describe the exact location of a point using two numbers. It is named after the mathematician Rene Descartes. It is the same grid used for graphing in math class."
+ },
+ {
+  "id": 378,
+  "domain": "geometry_and_measurement",
+  "front": "Which axis is the x-axis and which is the y-axis?",
+  "back": "The x-axis is the horizontal number line that goes left and right. The y-axis is the vertical number line that goes up and down. They cross at a right angle."
+ },
+ {
+  "id": 379,
+  "domain": "geometry_and_measurement",
+  "front": "What is the origin?",
+  "back": "The origin is the point where the x-axis and y-axis cross. Its coordinates are (0, 0). Every point on the plane is located by counting from the origin."
+ },
+ {
+  "id": 380,
+  "domain": "geometry_and_measurement",
+  "front": "In the ordered pair (x, y), what does each number tell you?",
+  "back": "The x-value tells you how far to move left or right from the origin, with positive meaning right and negative meaning left. The y-value tells you how far to move up or down, with positive meaning up and negative meaning down. The x-value always comes first."
+ },
+ {
+  "id": 381,
+  "domain": "geometry_and_measurement",
+  "front": "How do you plot the point (-2, 5)?",
+  "back": "Start at the origin. Move 2 units left because the x-value is negative. Then move 5 units up because the y-value is positive."
+ },
+ {
+  "id": 382,
+  "domain": "geometry_and_measurement",
+  "front": "What are the signs of x and y in Quadrant I?",
+  "back": "In Quadrant I, the top right region, both x and y are positive. A point like (4, 3) sits in Quadrant I. The quadrants are numbered counterclockwise starting from the top right."
+ },
+ {
+  "id": 383,
+  "domain": "geometry_and_measurement",
+  "front": "What are the sign patterns in Quadrants II, III, and IV?",
+  "back": "Quadrant II is top left: x is negative and y is positive. Quadrant III is bottom left: both x and y are negative. Quadrant IV is bottom right: x is positive and y is negative."
+ },
+ {
+  "id": 384,
+  "domain": "geometry_and_measurement",
+  "front": "A point is in Quadrant III. What do you know about its coordinates before plotting?",
+  "back": "Both coordinates must be negative, because Quadrant III is the bottom left region. Knowing the quadrant sign patterns lets you check your plotting work quickly. If your plotted point has a positive coordinate, something went wrong."
+ },
+ {
+  "id": 385,
+  "domain": "geometry_and_measurement",
+  "front": "Where does the distance formula come from?",
+  "back": "It comes from the Pythagorean theorem. The horizontal difference in x-values and the vertical difference in y-values form the two legs of a right triangle. The direct line between the points is the hypotenuse."
+ },
+ {
+  "id": 386,
+  "domain": "geometry_and_measurement",
+  "front": "What is the formula for the distance between two points?",
+  "back": "Distance equals the square root of (difference in x) squared plus (difference in y) squared. Find each difference, square both, add them, then take the square root of the sum."
+ },
+ {
+  "id": 387,
+  "domain": "geometry_and_measurement",
+  "front": "Find the distance between A (2, 3) and B (7, 15).",
+  "back": "The horizontal difference is 7 minus 2, which is 5, and the vertical difference is 15 minus 3, which is 12. Squaring gives 25 and 144, and their sum is 169. The square root of 169 is 13, so the distance is 13 units."
+ },
+ {
+  "id": 388,
+  "domain": "geometry_and_measurement",
+  "front": "Find the distance between C (-1, 2) and D (4, -10).",
+  "back": "The horizontal difference is 4 minus (-1), which is 5, and the vertical difference is -10 minus 2, which is -12. Squaring gives 25 and 144, since squaring a negative always gives a positive. The sum is 169, and its square root is 13 units."
+ },
+ {
+  "id": 389,
+  "domain": "geometry_and_measurement",
+  "front": "Trap: what step do students often skip at the end of a distance formula problem?",
+  "back": "Taking the square root. Squaring and adding the differences only gives the distance squared, not the distance itself. Always finish with the square root, and remember distance is always a positive value."
+ },
+ {
+  "id": 390,
+  "domain": "geometry_and_measurement",
+  "front": "What is the midpoint of a line segment, and how do you find it?",
+  "back": "The midpoint is the exact point halfway between the two endpoints. Add the two x-coordinates and divide by 2, then add the two y-coordinates and divide by 2. You are simply averaging the x-values and averaging the y-values."
+ },
+ {
+  "id": 391,
+  "domain": "geometry_and_measurement",
+  "front": "Find the midpoint of E (2, 3) and F (8, 9).",
+  "back": "Average the x-values: 2 plus 8 is 10, and half of 10 is 5. Average the y-values: 3 plus 9 is 12, and half of 12 is 6. The midpoint is (5, 6)."
+ },
+ {
+  "id": 392,
+  "domain": "geometry_and_measurement",
+  "front": "Find the midpoint of G (-4, 6) and H (2, -2).",
+  "back": "Average the x-values: -4 plus 2 is -2, and -2 divided by 2 is -1. Average the y-values: 6 plus (-2) is 4, and 4 divided by 2 is 2. The midpoint is (-1, 2)."
+ },
+ {
+  "id": 393,
+  "domain": "geometry_and_measurement",
+  "front": "State the Pythagorean theorem.",
+  "back": "In every right triangle, a squared plus b squared equals c squared. Here a and b are the two shorter sides, called legs, and c is the hypotenuse. It only works in triangles that have a 90 degree angle."
+ },
+ {
+  "id": 394,
+  "domain": "geometry_and_measurement",
+  "front": "What is the hypotenuse and how do you find it in a diagram?",
+  "back": "The hypotenuse is the longest side of a right triangle. It is always directly across from the right angle and never touches the right angle corner. Find the right angle first, then look for the side opposite it."
+ },
+ {
+  "id": 395,
+  "domain": "geometry_and_measurement",
+  "front": "A right triangle has legs 6 cm and 8 cm. What is the hypotenuse?",
+  "back": "Square each leg: 6 squared is 36 and 8 squared is 64. Add them: 36 plus 64 is 100. The square root of 100 is 10, so the hypotenuse is 10 cm."
+ },
+ {
+  "id": 396,
+  "domain": "geometry_and_measurement",
+  "front": "A right triangle has hypotenuse 13 m and one leg 5 m. What is the missing leg?",
+  "back": "Square the hypotenuse: 13 squared is 169. Square the known leg: 5 squared is 25. Subtract: 169 minus 25 is 144, and the square root of 144 is 12, so the missing leg is 12 m. To find a leg, you subtract instead of adding."
+ },
+ {
+  "id": 397,
+  "domain": "geometry_and_measurement",
+  "front": "A 10 foot ladder's base is 6 feet from a wall. How high does it reach?",
+  "back": "The ladder is the hypotenuse, so square it: 10 squared is 100. Square the known leg: 6 squared is 36. Subtract: 100 minus 36 is 64, and the square root of 64 is 8, so the ladder reaches 8 feet up the wall."
+ },
+ {
+  "id": 398,
+  "domain": "geometry_and_measurement",
+  "front": "A park is 30 m wide and 40 m long. How long is the diagonal path across it?",
+  "back": "The diagonal is the hypotenuse of a right triangle with legs 30 and 40. Squaring gives 900 and 1600, which add to 2500, and the square root of 2500 is 50 m. That beats walking 70 m around the two sides."
+ },
+ {
+  "id": 399,
+  "domain": "geometry_and_measurement",
+  "front": "A TV screen is 16 inches wide and 12 inches tall. What is its diagonal size?",
+  "back": "TV sizes are measured corner to corner, so the diagonal is the hypotenuse. Squaring gives 256 and 144, which add to 400, and the square root of 400 is 20. It is a 20 inch TV."
+ },
+ {
+  "id": 400,
+  "domain": "geometry_and_measurement",
+  "front": "Trap: how do students pick the wrong hypotenuse?",
+  "back": "They grab any slanted side without checking the right angle first. A slanted side that touches the right angle corner is a leg, not the hypotenuse. The hypotenuse is always the side directly across from the right angle."
+ },
+ {
+  "id": 401,
+  "domain": "geometry_and_measurement",
+  "front": "Trap: what does stopping at a squared plus b squared give you?",
+  "back": "It only gives you c squared, not c. Many students hand in the squared value, like 100 instead of 10, because they forgot the final square root. Always take the square root as the last step."
+ },
+ {
+  "id": 402,
+  "domain": "geometry_and_measurement",
+  "front": "Does the Pythagorean theorem work in every triangle?",
+  "back": "No, it only works in right triangles, ones with exactly one 90 degree angle. If a triangle has no right angle, a squared plus b squared will not equal c squared. Check for the right angle before using the theorem."
+ },
+ {
+  "id": 403,
+  "domain": "geometry_and_measurement",
+  "front": "What are complementary angles?",
+  "back": "Two angles that add up to 90 degrees. If one angle is 35 degrees, its complement is 90 minus 35, which is 55 degrees. Picture them fitting together into one right angle."
+ },
+ {
+  "id": 404,
+  "domain": "geometry_and_measurement",
+  "front": "What are supplementary angles?",
+  "back": "Two angles that add up to 180 degrees. If one angle is 110 degrees, its supplement is 180 minus 110, which is 70 degrees. Picture them fitting together along one straight line."
+ },
+ {
+  "id": 405,
+  "domain": "geometry_and_measurement",
+  "front": "What are opposite (vertical) angles?",
+  "back": "When two straight lines cross, the two angles directly across from each other are called opposite or vertical angles. They are always equal. The angles next to each other along either line add to 180 degrees instead."
+ },
+ {
+  "id": 406,
+  "domain": "geometry_and_measurement",
+  "front": "Two lines cross and one angle is 65 degrees. What are the other three angles?",
+  "back": "The angle directly opposite is also 65 degrees, because opposite angles are equal. The two angles beside it each measure 180 minus 65, which is 115 degrees. All four angles together add up to 360 degrees."
+ },
+ {
+  "id": 407,
+  "domain": "geometry_and_measurement",
+  "front": "What do angles on a straight line add up to?",
+  "back": "They always add up to 180 degrees. If a line has angles of 40 degrees, 75 degrees, and one unknown, the unknown is 180 minus 40 minus 75, which is 65 degrees."
+ },
+ {
+  "id": 408,
+  "domain": "geometry_and_measurement",
+  "front": "What do angles around a single point add up to?",
+  "back": "They always add up to 360 degrees. If four angles meet at a point and three measure 90, 80, and 100 degrees, the fourth is 360 minus 90 minus 80 minus 100, which is 90 degrees."
+ },
+ {
+  "id": 409,
+  "domain": "geometry_and_measurement",
+  "front": "What is a transversal?",
+  "back": "A transversal is a third line that crosses two parallel lines. Parallel lines never meet and stay the same distance apart. The transversal creates special angle pairs at the two intersections."
+ },
+ {
+  "id": 410,
+  "domain": "geometry_and_measurement",
+  "front": "What are corresponding angles on parallel lines?",
+  "back": "They are angles sitting in the same position at each intersection, like both in the top right corner. When the two lines are parallel, corresponding angles are always equal."
+ },
+ {
+  "id": 411,
+  "domain": "geometry_and_measurement",
+  "front": "What are alternate interior angles on parallel lines?",
+  "back": "They sit between the two parallel lines but on opposite sides of the transversal. When the lines are parallel, alternate interior angles are always equal. Many people spot them by their Z shape pattern."
+ },
+ {
+  "id": 412,
+  "domain": "geometry_and_measurement",
+  "front": "What are co-interior angles on parallel lines?",
+  "back": "They sit between the two parallel lines on the same side of the transversal. They are not equal; instead they always add up to 180 degrees. They are also called same-side interior angles."
+ },
+ {
+  "id": 413,
+  "domain": "geometry_and_measurement",
+  "front": "A transversal crosses parallel lines and one angle is 72 degrees. Find the three related angles.",
+  "back": "The corresponding angle is equal, so it is 72 degrees. The alternate interior angle is also equal, 72 degrees. The co-interior angle adds with it to 180, so it is 180 minus 72, which is 108 degrees."
+ },
+ {
+  "id": 414,
+  "domain": "geometry_and_measurement",
+  "front": "Trap: how do you avoid mixing up alternate interior and co-interior angles?",
+  "back": "Use this trick: if the two angles between the parallel lines are on the same side of the transversal, they add up to 180 degrees. If they are on opposite sides, they are equal. Same side means sum, opposite side means equal."
+ },
+ {
+  "id": 415,
+  "domain": "geometry_and_measurement",
+  "front": "What do the interior angles of a triangle add up to?",
+  "back": "Always exactly 180 degrees, no matter the triangle's shape. If a triangle has angles of 50 and 65 degrees, the third angle is 180 minus 50 minus 65, which is 65 degrees."
+ },
+ {
+  "id": 416,
+  "domain": "geometry_and_measurement",
+  "front": "What are scalene, isosceles, and equilateral triangles?",
+  "back": "A scalene triangle has three sides of different lengths. An isosceles triangle has exactly two equal sides, and the angles opposite those sides are also equal. An equilateral triangle has all three sides equal."
+ },
+ {
+  "id": 417,
+  "domain": "geometry_and_measurement",
+  "front": "What are the angles in an equilateral triangle?",
+  "back": "All three angles are 60 degrees each. Since every triangle's angles total 180 degrees and all three are equal, each one is 180 divided by 3, which is 60."
+ },
+ {
+  "id": 418,
+  "domain": "geometry_and_measurement",
+  "front": "In an isosceles triangle, which angles are equal?",
+  "back": "The two angles opposite the two equal sides are equal. So if you know one of those base angles, you automatically know the other. The third angle can then be found by subtracting both from 180."
+ },
+ {
+  "id": 419,
+  "domain": "geometry_and_measurement",
+  "front": "What are acute, right, and obtuse triangles, and why can a triangle never have two right angles?",
+  "back": "An acute triangle has all angles under 90 degrees, a right triangle has exactly one 90 degree angle, and an obtuse triangle has exactly one angle over 90 degrees. Two right angles alone would total 180 degrees, leaving nothing for the third angle. That is why two right or two obtuse angles are impossible."
+ },
+ {
+  "id": 420,
+  "domain": "geometry_and_measurement",
+  "front": "What do the interior angles of a quadrilateral add up to, and why?",
+  "back": "They always add up to 360 degrees. Drawing one diagonal splits any quadrilateral into two triangles, and each triangle holds 180 degrees. Two triangles together give 360 degrees."
+ },
+ {
+  "id": 421,
+  "domain": "geometry_and_measurement",
+  "front": "A quadrilateral has angles of 100, 85, and 95 degrees. What is the fourth angle?",
+  "back": "The four angles must total 360 degrees. So the fourth angle is 360 minus 100 minus 85 minus 95, which is 80 degrees."
+ },
+ {
+  "id": 422,
+  "domain": "geometry_and_measurement",
+  "front": "What are the key properties of a parallelogram?",
+  "back": "Both pairs of opposite sides are parallel and equal in length. Opposite angles are equal. Consecutive angles, the ones next to each other, are supplementary, meaning they add up to 180 degrees."
+ },
+ {
+  "id": 423,
+  "domain": "geometry_and_measurement",
+  "front": "What makes a rectangle special among parallelograms?",
+  "back": "A rectangle is a parallelogram where all four angles are exactly 90 degrees. It keeps every parallelogram property. It also adds a new rule: its two diagonals are equal in length."
+ },
+ {
+  "id": 424,
+  "domain": "geometry_and_measurement",
+  "front": "What makes a rhombus special among parallelograms?",
+  "back": "A rhombus is a parallelogram where all four sides are equal in length. It keeps every parallelogram property. Its diagonals cross at a right angle and cut each other exactly in half."
+ },
+ {
+  "id": 425,
+  "domain": "geometry_and_measurement",
+  "front": "Why is a square both a rectangle and a rhombus?",
+  "back": "A square has four 90 degree angles, which makes it a rectangle. It also has four equal sides, which makes it a rhombus. Since it meets both definitions at once, it inherits every property of both shapes."
+ },
+ {
+  "id": 426,
+  "domain": "geometry_and_measurement",
+  "front": "Trap: can you use parallelogram rules on any quadrilateral?",
+  "back": "No. Only use rules like equal opposite sides and equal opposite angles when the shape is actually stated or shown to be a parallelogram, rectangle, rhombus, or square. A general quadrilateral only guarantees its four angles add up to 360 degrees, nothing more."
+ },
+ {
+  "id": 427,
+  "domain": "geometry_and_measurement",
+  "front": "What is a transformation, and what are the three basic types?",
+  "back": "A transformation moves a shape to a new position on the grid without changing its size or shape. The three basic types are translations (slides), reflections (flips), and rotations (turns)."
+ },
+ {
+  "id": 428,
+  "domain": "geometry_and_measurement",
+  "front": "How do you translate a point on the Cartesian plane?",
+  "back": "Add or subtract from its coordinates. Moving right adds to x and moving left subtracts from x. Moving up adds to y and moving down subtracts from y."
+ },
+ {
+  "id": 429,
+  "domain": "geometry_and_measurement",
+  "front": "Translate the point (1, 4) by 3 units right and 2 units down.",
+  "back": "Add 3 to the x-value: 1 plus 3 is 4. Subtract 2 from the y-value: 4 minus 2 is 2. The new point is (4, 2)."
+ },
+ {
+  "id": 430,
+  "domain": "geometry_and_measurement",
+  "front": "What is the coordinate rule for reflecting a point over the x-axis?",
+  "back": "Keep the x-value the same and flip the sign of the y-value. For example, reflecting (5, 3) over the x-axis gives (5, -3). The point jumps to the mirror position below the horizontal axis."
+ },
+ {
+  "id": 431,
+  "domain": "geometry_and_measurement",
+  "front": "What is the coordinate rule for reflecting a point over the y-axis?",
+  "back": "Keep the y-value the same and flip the sign of the x-value. For example, reflecting (5, 3) over the y-axis gives (-5, 3). The point jumps to the mirror position on the other side of the vertical axis."
+ },
+ {
+  "id": 432,
+  "domain": "geometry_and_measurement",
+  "front": "What is the coordinate rule for a 180 degree rotation around the origin?",
+  "back": "Flip the sign of both coordinates. For example, rotating (4, -2) by 180 degrees gives (-4, 2). The point ends up directly across the origin from where it started."
+ },
+ {
+  "id": 433,
+  "domain": "geometry_and_measurement",
+  "front": "What is the rule for rotating a point 90 degrees counterclockwise around the origin?",
+  "back": "The rule turns (x, y) into (-y, x). For example, rotating (3, 5) by 90 degrees counterclockwise gives (-5, 3). The new x is the old y with its sign flipped, and the new y is the old x."
+ },
+ {
+  "id": 434,
+  "domain": "geometry_and_measurement",
+  "front": "What is the rule for rotating a point 90 degrees clockwise around the origin?",
+  "back": "The rule turns (x, y) into (y, -x). For example, rotating (3, 5) by 90 degrees clockwise gives (5, -3). It is the reverse of the counterclockwise rule, so applying one then the other brings the point back."
+ },
+ {
+  "id": 435,
+  "domain": "geometry_and_measurement",
+  "front": "Trap: what is the most common transformation mistake?",
+  "back": "Sign errors: forgetting to flip a sign during a reflection, or adding instead of subtracting during a translation. Either mistake lands the point in the wrong quadrant. After transforming, check that the new point sits in a quadrant that matches the direction you moved or flipped."
+ },
+ {
+  "id": 436,
+  "domain": "financial_literacy",
+  "front": "What is the simple interest formula?",
+  "back": "The formula is I = Prt. I is the interest earned or owed, P is the principal (starting amount), r is the annual interest rate written as a decimal, and t is the time in years. Simple interest is always calculated on the original principal, which never changes."
+ },
+ {
+  "id": 437,
+  "domain": "financial_literacy",
+  "front": "In I = Prt, what does P stand for?",
+  "back": "P is the principal, which is the original amount of money you deposit, invest, or borrow. In simple interest, the principal stays the same the whole time. Interest is always calculated on this starting amount, not on a growing balance."
+ },
+ {
+  "id": 438,
+  "domain": "financial_literacy",
+  "front": "In I = Prt, what does r stand for, and how do you write it?",
+  "back": "The r is the annual interest rate written as a decimal. To convert a percent to a decimal, divide by 100. So 5% becomes 0.05 and 12% becomes 0.12. Forgetting this conversion is a very common test mistake."
+ },
+ {
+  "id": 439,
+  "domain": "financial_literacy",
+  "front": "In I = Prt, what does t stand for?",
+  "back": "The t is time measured in years. If a question gives months, convert to years first. For example, 6 months is 0.5 years and 18 months is 1.5 years. Using months directly in the formula gives an answer that is 12 times too big."
+ },
+ {
+  "id": 440,
+  "domain": "financial_literacy",
+  "front": "You invest $500 at 4% simple interest for 3 years. How much interest do you earn?",
+  "back": "Use I = Prt with P = 500, r = 0.04, and t = 3. Multiply: 500 × 0.04 = 20, then 20 × 3 = 60. You earn $60 in interest."
+ },
+ {
+  "id": 441,
+  "domain": "financial_literacy",
+  "front": "You deposit $800 at 5% simple interest for 3 years. Find the total amount.",
+  "back": "First find the interest: I = 800 × 0.05 × 3 = $120. Then add it to the principal: 800 + 120 = $920. Always check whether the question wants the interest alone or the total amount."
+ },
+ {
+  "id": 442,
+  "domain": "financial_literacy",
+  "front": "How do you find the total amount with simple interest?",
+  "back": "Calculate the interest first using I = Prt, then add it to the principal. Total amount = P + I. Many students correctly find the interest but forget to add the principal back, which loses easy marks."
+ },
+ {
+  "id": 443,
+  "domain": "financial_literacy",
+  "front": "You borrow $200 at 3% simple interest for 5 years. How much interest do you owe?",
+  "back": "Use I = Prt with P = 200, r = 0.03, and t = 5. Multiply: 200 × 0.03 = 6, then 6 × 5 = 30. You owe $30 in interest, so you would pay back $230 in total."
+ },
+ {
+  "id": 444,
+  "domain": "financial_literacy",
+  "front": "$100 earns 8% simple interest for 6 months. How much interest?",
+  "back": "Convert 6 months to years first: t = 0.5. Then I = 100 × 0.08 × 0.5 = $4. If you had used t = 6 by mistake, you would get $48, which is 12 times too big."
+ },
+ {
+  "id": 445,
+  "domain": "financial_literacy",
+  "front": "$1000 earns $120 in simple interest at 4% per year. How many years did it take?",
+  "back": "Rearrange I = Prt to solve for t. Here t = I divided by (Pr), so t = 120 / (1000 × 0.04) = 120 / 40 = 3. It took 3 years."
+ },
+ {
+  "id": 446,
+  "domain": "financial_literacy",
+  "front": "$600 earns $90 in simple interest over 5 years. What is the rate?",
+  "back": "Rearrange I = Prt to solve for r. Here r = I divided by (Pt), so r = 90 / (600 × 5) = 90 / 3000 = 0.03. The rate is 3% per year."
+ },
+ {
+  "id": 447,
+  "domain": "financial_literacy",
+  "front": "What principal earns $50 at 5% simple interest in 2 years?",
+  "back": "Rearrange I = Prt to solve for P. Here P = I divided by (rt), so P = 50 / (0.05 × 2) = 50 / 0.1 = 500. The principal is $500."
+ },
+ {
+  "id": 448,
+  "domain": "financial_literacy",
+  "front": "What is the compound interest formula?",
+  "back": "The formula is A = P(1 + r/n)ⁿᵗ. A is the final amount, P is the principal, r is the annual rate as a decimal, n is how many times interest compounds per year, and t is the time in years. The bracket is raised to an exponent, which is what makes the money grow faster and faster."
+ },
+ {
+  "id": 449,
+  "domain": "financial_literacy",
+  "front": "In A = P(1 + r/n)ⁿᵗ, what does A stand for?",
+  "back": "A is the final amount, which means the principal plus all the interest that has been added. It is not just the interest. If a question asks for the interest earned, subtract the principal: interest = A - P."
+ },
+ {
+  "id": 450,
+  "domain": "financial_literacy",
+  "front": "In the compound interest formula, what does n stand for?",
+  "back": "The n is the number of times interest is compounded per year. Annually means n = 1, semi-annually means n = 2, quarterly means n = 4, and monthly means n = 12. It appears twice in the formula: dividing the rate (r/n) and multiplying the time in the exponent (nt)."
+ },
+ {
+  "id": 451,
+  "domain": "financial_literacy",
+  "front": "What is compound interest in plain words?",
+  "back": "Compound interest means the interest itself starts earning interest. Each time interest is added, the next calculation uses the new, bigger balance instead of the original principal. It works like a snowball rolling downhill, picking up more snow the bigger it gets."
+ },
+ {
+  "id": 452,
+  "domain": "financial_literacy",
+  "front": "You invest $800 at 5% compounded annually for 3 years. Find the final amount.",
+  "back": "Use A = 800(1.05)³. First 1.05 × 1.05 = 1.1025, then 1.1025 × 1.05 = 1.157625. Multiply by the principal: 800 × 1.157625 = $926.10."
+ },
+ {
+  "id": 453,
+  "domain": "financial_literacy",
+  "front": "You invest $1000 at 6% compounded annually for 10 years. Find the final amount.",
+  "back": "Use A = 1000(1.06)¹⁰. The value of 1.06¹⁰ is about 1.790847. So A = 1000 × 1.790847 = $1790.85, rounded to the nearest cent."
+ },
+ {
+  "id": 454,
+  "domain": "financial_literacy",
+  "front": "You invest $400 at 5% compounded annually for 2 years. Find the final amount.",
+  "back": "Use A = 400(1.05)². First 1.05 × 1.05 = 1.1025. Then 400 × 1.1025 = $441. The interest earned is 441 - 400 = $41."
+ },
+ {
+  "id": 455,
+  "domain": "financial_literacy",
+  "front": "You invest $2000 at 4% compounded annually for 3 years. Find the final amount.",
+  "back": "Use A = 2000(1.04)³. Build up the power: 1.04 × 1.04 = 1.0816, then 1.0816 × 1.04 = 1.124864. Multiply: 2000 × 1.124864 = $2249.73, rounded to the nearest cent."
+ },
+ {
+  "id": 456,
+  "domain": "financial_literacy",
+  "front": "You invest $1000 at 10% compounded annually for 2 years. Find the final amount.",
+  "back": "Use A = 1000(1.10)². First 1.10 × 1.10 = 1.21. Then 1000 × 1.21 = $1210. Notice the second year earned $110, more than the first year's $100, because the interest earned interest."
+ },
+ {
+  "id": 457,
+  "domain": "financial_literacy",
+  "front": "Interest is 12% per year, compounded monthly. What rate and exponent go in the formula?",
+  "back": "Divide the annual rate by 12: r/n = 0.12/12 = 0.01, which is 1% per month. Multiply the years by 12 for the exponent: nt = 12t. So for 1 year the formula uses (1.01)¹²."
+ },
+ {
+  "id": 458,
+  "domain": "financial_literacy",
+  "front": "$1000 at 12% compounded monthly for 1 year. Find the final amount.",
+  "back": "Monthly rate is 0.12/12 = 0.01, and the exponent is 12 × 1 = 12. So A = 1000(1.01)¹². Since 1.01¹² is about 1.126825, the final amount is about $1126.83. That beats $1120 from annual compounding because of the extra compounding periods."
+ },
+ {
+  "id": 459,
+  "domain": "financial_literacy",
+  "front": "$1000 at 6% compounded semi-annually for 1 year. Find the final amount.",
+  "back": "Semi-annually means n = 2, so the rate per period is 0.06/2 = 0.03 and the exponent is 2 × 1 = 2. A = 1000(1.03)² = 1000 × 1.0609 = $1060.90. With annual compounding it would be only $1060, so compounding more often earns slightly more."
+ },
+ {
+  "id": 460,
+  "domain": "financial_literacy",
+  "front": "How do you find just the interest earned from a compound interest problem?",
+  "back": "The formula A = P(1 + r/n)ⁿᵗ gives the final amount, not the interest. To get the interest, subtract the principal: interest = A - P. For example, if $800 grows to $926.10, the interest earned is 926.10 - 800 = $126.10."
+ },
+ {
+  "id": 461,
+  "domain": "financial_literacy",
+  "front": "Trap: a question says interest is compounded monthly. Which formula do you use?",
+  "back": "Any mention of compounding, whether annually, monthly, or quarterly, means you must use the compound formula A = P(1 + r/n)ⁿᵗ. Using I = Prt on a compounding question is one of the most common exam mistakes. Simple interest never mentions compounding."
+ },
+ {
+  "id": 462,
+  "domain": "financial_literacy",
+  "front": "Trap: what happens if you forget to divide the rate by n for monthly compounding?",
+  "back": "You will use the full annual rate 12 times a year instead of one twelfth of it each month, so your answer comes out far too large. Always divide the annual rate by n to get the rate per period, and multiply the years by n to get the exponent. Both adjustments must happen together."
+ },
+ {
+  "id": 463,
+  "domain": "financial_literacy",
+  "front": "How is simple interest different from compound interest?",
+  "back": "Simple interest is always calculated on the original principal, so it adds the same amount every year. Compound interest is calculated on the current balance, which includes past interest, so it grows faster and faster. Over short times the difference is small, but over many years it becomes huge."
+ },
+ {
+  "id": 464,
+  "domain": "financial_literacy",
+  "front": "$800 at 5% for 3 years: how much more does compound earn than simple?",
+  "back": "Simple interest gives 800 + (800 × 0.05 × 3) = $920. Compound interest gives 800(1.05)³ = $926.10. The difference is $6.10, which is the extra interest earned on the interest itself."
+ },
+ {
+  "id": 465,
+  "domain": "financial_literacy",
+  "front": "$1000 at 6% for 10 years: compare simple and compound totals.",
+  "back": "Simple: I = 1000 × 0.06 × 10 = $600, so the total is $1600. Compound: A = 1000(1.06)¹⁰ = $1790.85. Compounding earns $190.85 more, and the gap keeps widening the longer the money sits."
+ },
+ {
+  "id": 466,
+  "domain": "financial_literacy",
+  "front": "Why does the gap between simple and compound interest grow over time?",
+  "back": "Simple interest adds the same fixed amount every year because it only uses the original principal. Compound interest adds a bigger amount each year because the balance it works from keeps growing. Each year of compounding builds on all the previous years, so the gap widens faster and faster."
+ },
+ {
+  "id": 467,
+  "domain": "financial_literacy",
+  "front": "Which type of interest do long-term savings and retirement accounts usually use?",
+  "back": "They almost always use compound interest. Over decades, interest earning its own interest makes a massive difference in the final amount. That is exactly why saving for the long term is so powerful."
+ },
+ {
+  "id": 468,
+  "domain": "financial_literacy",
+  "front": "What is a budget?",
+  "back": "A budget is a plan for your money over a set period, usually a month. It compares income (money coming in) to expenses (money going out). A good budget makes sure expenses do not add up to more than income."
+ },
+ {
+  "id": 469,
+  "domain": "financial_literacy",
+  "front": "What is income?",
+  "back": "Income is money coming in, such as pay from a job, an allowance, or money from a small business. In a budget, income is the total you have available before any spending. Everything you spend or save has to fit inside it."
+ },
+ {
+  "id": 470,
+  "domain": "financial_literacy",
+  "front": "What is a fixed expense? Give examples.",
+  "back": "A fixed expense stays the same amount every month. Examples are rent, a phone plan, or a monthly transit pass. Because they do not change, fixed expenses are the easiest part of a budget to predict."
+ },
+ {
+  "id": 471,
+  "domain": "financial_literacy",
+  "front": "What is a variable expense? Give examples.",
+  "back": "A variable expense changes from month to month because it depends on your choices. Examples are groceries, entertainment, and eating out. Variable expenses are usually the easiest place to cut back when a budget is tight."
+ },
+ {
+  "id": 472,
+  "domain": "financial_literacy",
+  "front": "What is the difference between a need and a want?",
+  "back": "A need is something you must have to live and function, like housing, food, and basic transportation. A want is nice to have but not required, like streaming subscriptions or eating out. A strong budget covers all needs first, then splits what is left between wants and savings."
+ },
+ {
+  "id": 473,
+  "domain": "financial_literacy",
+  "front": "Income $2400. Fixed expenses $1050, variable expenses $550. How much is left over?",
+  "back": "Add all expenses: 1050 + 550 = $1600. Subtract from income: 2400 - 1600 = $800. That $800 is available for saving or extra spending, and the budget shows exactly how much there is."
+ },
+ {
+  "id": 474,
+  "domain": "financial_literacy",
+  "front": "Rent $900, phone $60, transit pass $90. What are total fixed expenses?",
+  "back": "Add them: 900 + 60 + 90 = $1050. All three count as fixed expenses because they cost the same amount every month. Grouping them makes a monthly budget quick to build."
+ },
+ {
+  "id": 475,
+  "domain": "financial_literacy",
+  "front": "Is a streaming subscription a need or a want?",
+  "back": "It is a want. You can live and function without it, unlike housing, food, or basic transportation. Wants are the first place to cut when expenses are bigger than income."
+ },
+ {
+  "id": 476,
+  "domain": "financial_literacy",
+  "front": "What does it mean if your expenses are bigger than your income?",
+  "back": "You are spending more than you earn, so you are either draining savings or going into debt. A budget exposes this problem clearly by putting income and expenses side by side. The fix is to cut expenses, starting with wants, or increase income."
+ },
+ {
+  "id": 477,
+  "domain": "financial_literacy",
+  "front": "Why does saving money early in life matter so much?",
+  "back": "Compound interest needs time to work, and money saved earlier has more years to grow. Interest earns interest, so each extra year multiplies the effect. Starting even a few years earlier can lead to a much larger final amount, even with the same deposit and rate."
+ },
+ {
+  "id": 478,
+  "domain": "financial_literacy",
+  "front": "$1000 invested at 6% compounded annually for 20 years. Final amount?",
+  "back": "Use A = 1000(1.06)²⁰. Since 1.06²⁰ is about 3.207135, the final amount is about $3207.14. The money more than triples without adding a single extra dollar."
+ },
+ {
+  "id": 479,
+  "domain": "financial_literacy",
+  "front": "Amara invests $1000 at 6% at age 15, Ben at age 25. Compare them at 35.",
+  "back": "Amara gets 20 years of growth: 1000(1.06)²⁰ = $3207.14. Ben gets only 10 years: 1000(1.06)¹⁰ = $1790.85. Amara ends up with $1416.29 more, even though they invested the same amount at the same rate. The only difference was starting earlier."
+ },
+ {
+  "id": 480,
+  "domain": "financial_literacy",
+  "front": "Same deposit, same rate. What single factor made one investor finish with far more?",
+  "back": "Time. Starting earlier gives compound interest more years to build on itself. This is why financial advisors say the best time to start saving is now, not later."
+ },
+ {
+  "id": 481,
+  "domain": "financial_literacy",
+  "front": "How is a credit card different from a debit card?",
+  "back": "A credit card borrows money from a bank up to a limit, and you pay it back later. A debit card takes money directly out of an account you already own. Every credit card purchase is really a small loan."
+ },
+ {
+  "id": 482,
+  "domain": "financial_literacy",
+  "front": "When does a credit card charge you no interest?",
+  "back": "Most credit cards charge no interest if you pay off your full balance every month. Interest only starts when you carry a balance, meaning you do not pay the full amount owed. Then the leftover amount gets charged a very high rate, often near 20% per year."
+ },
+ {
+  "id": 483,
+  "domain": "financial_literacy",
+  "front": "A card charges 20% per year, applied monthly. What is the monthly rate?",
+  "back": "Divide the annual rate by 12: 20% / 12 is about 1.667% per month, or 0.01667 as a decimal. That monthly rate is what gets applied to any balance you carry. It looks small but adds up fast on a big balance."
+ },
+ {
+  "id": 484,
+  "domain": "financial_literacy",
+  "front": "Sam owes $500 at 20% annual interest, charged monthly. Interest for one month?",
+  "back": "The monthly rate is 0.20 / 12, which is about 0.01667. Multiply: 500 × 0.01667 = $8.34, rounded to the nearest cent. That $8.34 gets added to what Sam owes if he carries the balance."
+ },
+ {
+  "id": 485,
+  "domain": "financial_literacy",
+  "front": "Sam owes $500, monthly interest is $8.34, and he pays only $25. New balance?",
+  "back": "Of the $25 payment, $8.34 just covers the interest, so only 25 - 8.34 = $16.66 reduces the debt. The new balance is 500 - 16.66 = $483.34. Even after paying $25, the debt barely moved."
+ },
+ {
+  "id": 486,
+  "domain": "financial_literacy",
+  "front": "Why are minimum credit card payments dangerous?",
+  "back": "A large chunk of each minimum payment just covers the interest, so the balance shrinks very slowly. Paying only the minimum can take years to clear even a small debt. The total interest paid can end up costing more than the original purchase."
+ },
+ {
+  "id": 487,
+  "domain": "financial_literacy",
+  "front": "What is a credit score?",
+  "back": "A credit score is a number that shows how reliably a person pays back borrowed money. It rises when bills are paid on time and balances stay low, and it falls when payments are missed or balances stay high. A strong score makes future loans easier to get, often at better rates."
+ },
+ {
+  "id": 488,
+  "domain": "financial_literacy",
+  "front": "What is HST and what is the rate in Ontario?",
+  "back": "HST stands for Harmonized Sales Tax, the sales tax added to the price of most things you buy in Ontario. The rate is 13%. That means every $100 of taxable spending costs an extra $13 in tax."
+ },
+ {
+  "id": 489,
+  "domain": "financial_literacy",
+  "front": "An item costs $45 before tax. Find the total with 13% HST.",
+  "back": "Tax = 45 × 0.13 = $5.85. Total = 45 + 5.85 = $50.85. You can also do it in one step: 45 × 1.13 = $50.85."
+ },
+ {
+  "id": 490,
+  "domain": "financial_literacy",
+  "front": "What is the one-step shortcut for adding 13% HST to a price?",
+  "back": "Multiply the price by 1.13. That works because you are paying 100% of the price plus another 13%, and 100% + 13% = 113% = 1.13. For example, 60 × 1.13 = $67.80."
+ },
+ {
+  "id": 491,
+  "domain": "financial_literacy",
+  "front": "An item costs $80 before tax. How much HST do you pay?",
+  "back": "Multiply the price by the tax rate: 80 × 0.13 = $10.40. The total price would be 80 + 10.40 = $90.40. Check whether the question wants the tax alone or the full total."
+ },
+ {
+  "id": 492,
+  "domain": "financial_literacy",
+  "front": "A $50 item is 20% off, then 13% HST is added. Final price?",
+  "back": "Apply the discount first: 50 × 0.80 = $40. Then add the tax: 40 × 1.13 = $45.20. Read carefully which applies first, because doing the steps in the wrong order can change the total on some problems."
+ },
+ {
+  "id": 493,
+  "domain": "financial_literacy",
+  "front": "How is income tax different from sales tax?",
+  "back": "Sales tax is added to the price of things you buy, like the 13% HST in Ontario. Income tax is a percentage taken from money a person earns, usually from a job. They are calculated on completely different amounts: one on spending, the other on earnings."
+ },
+ {
+  "id": 494,
+  "domain": "financial_literacy",
+  "front": "What does progressive taxation mean?",
+  "back": "It means the tax rate increases as income increases. People who earn more pay a higher percentage, but only on the portion of income above certain thresholds, not on all of it at one flat rate. Lower amounts of income are always taxed at the lower rates."
+ },
+ {
+  "id": 495,
+  "domain": "financial_literacy",
+  "front": "True or false: in Canada, a high earner pays the top rate on ALL their income.",
+  "back": "False. Canada's progressive system applies higher rates only to the portion of income above each threshold. The lower slices of everyone's income are taxed at the lower rates, no matter how much they earn in total."
+ },
+ {
+  "id": 496,
+  "domain": "financial_literacy",
+  "front": "A $1000 phone: pay $1000 now, or $90 a month for 12 months. Which costs more?",
+  "back": "The payment plan costs 90 × 12 = $1080 in total, which is $80 more than paying in full. That $80 is effectively the interest for spreading the cost over a year. Always compare total cost, not just the monthly payment."
+ },
+ {
+  "id": 497,
+  "domain": "financial_literacy",
+  "front": "Why can a lower monthly payment still mean a more expensive loan?",
+  "back": "A smaller payment usually means the loan lasts longer or carries a higher interest rate, so interest builds up over more months. The true cost is the total of every payment plus all fees, not the size of one payment. Multiply the payment by the number of payments to see the real price."
+ },
+ {
+  "id": 498,
+  "domain": "financial_literacy",
+  "front": "How do you find the true cost of borrowing on a payment plan?",
+  "back": "Multiply the payment amount by the number of payments, then add any fees. Compare that total to the cash price of the item. The difference is what the borrowing actually costs you."
+ },
+ {
+  "id": 499,
+  "domain": "financial_literacy",
+  "front": "What is a payday loan and why is it risky?",
+  "back": "A payday loan is a short-term loan meant to be repaid by your next paycheque. Its fees are extremely high and can work out to an annual interest rate of several hundred percent. Borrowers who cannot repay on time often take another loan, getting trapped in a costly cycle."
+ },
+ {
+  "id": 500,
+  "domain": "financial_literacy",
+  "front": "What is the hidden danger of buy-now-pay-later plans?",
+  "back": "They split a purchase into several small payments, which feels harmless. But missing a payment can trigger steep fees or interest, and it is easy to lose track of several plans running at once. Small payments can quietly add up to more than your budget can handle."
+ }
+]
